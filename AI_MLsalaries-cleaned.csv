@@ -1,0 +1,1333 @@
+,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+0,2022,Intermediate,Full-time,Machine Learning Engineer,130000,USD,130000,US,WFO,US,Medium
+1,2022,Intermediate,Full-time,Machine Learning Engineer,90000,USD,90000,US,WFO,US,Medium
+2,2022,Intermediate,Full-time,Data Scientist,120000,USD,120000,US,WFH,US,Medium
+3,2022,Intermediate,Full-time,Data Scientist,100000,USD,100000,US,WFH,US,Medium
+4,2022,Intermediate,Full-time,Data Scientist,85000,USD,85000,US,WFH,US,Medium
+5,2022,Intermediate,Full-time,Data Scientist,78000,USD,78000,US,WFH,US,Medium
+6,2022,Expert,Full-time,Data Engineer,161000,USD,161000,US,WFH,US,Medium
+7,2022,Expert,Full-time,Data Engineer,110000,USD,110000,US,WFH,US,Medium
+8,2022,Expert,Full-time,Data Scientist,136000,USD,136000,US,WFH,US,Medium
+9,2022,Expert,Full-time,Data Scientist,104000,USD,104000,US,WFH,US,Medium
+10,2022,Expert,Full-time,Data Scientist,45000,EUR,47379,ES,WFO,ES,Medium
+11,2022,Expert,Full-time,Data Scientist,36000,EUR,37903,ES,WFO,ES,Medium
+12,2022,Director,Full-time,Head of Data,205000,USD,205000,US,WFO,US,Medium
+13,2022,Director,Full-time,Head of Data,160000,USD,160000,US,WFO,US,Medium
+14,2022,Expert,Full-time,Data Analyst,169000,USD,169000,US,WFO,US,Medium
+15,2022,Expert,Full-time,Data Analyst,110600,USD,110600,US,WFO,US,Medium
+16,2022,Junior,Full-time,Data Engineer,50000,GBP,61927,GB,WFH,GB,Medium
+17,2022,Junior,Full-time,Data Engineer,40000,GBP,49542,GB,WFH,GB,Medium
+18,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFO,US,Medium
+19,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFO,US,Medium
+20,2022,Expert,Full-time,Data Scientist,245000,USD,245000,US,WFO,US,Medium
+21,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFO,US,Medium
+22,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFO,US,Medium
+23,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFO,US,Medium
+24,2022,Expert,Full-time,Data Engineer,220000,USD,220000,US,WFO,US,Medium
+25,2022,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFO,US,Medium
+26,2022,Expert,Full-time,Data Scientist,198440,USD,198440,US,WFO,US,Big Enterprise
+27,2022,Expert,Full-time,Data Scientist,144000,USD,144000,US,WFO,US,Big Enterprise
+28,2022,Expert,Full-time,Data Engineer,240000,USD,240000,US,WFO,US,Medium
+29,2022,Expert,Full-time,Data Engineer,170000,USD,170000,US,WFO,US,Medium
+30,2022,Expert,Full-time,Data Scientist,198440,USD,198440,US,WFO,US,Medium
+31,2022,Expert,Full-time,Data Scientist,144000,USD,144000,US,WFO,US,Medium
+32,2022,Intermediate,Full-time,Data Analyst,150000,USD,150000,US,WFH,US,Medium
+33,2022,Intermediate,Full-time,Data Analyst,100000,USD,100000,US,WFH,US,Medium
+34,2022,Expert,Full-time,Data Analyst,120000,USD,120000,US,WFO,US,Medium
+35,2022,Expert,Full-time,Data Analyst,95000,USD,95000,US,WFO,US,Medium
+36,2022,Intermediate,Full-time,Data Scientist,47000,GBP,58211,GB,Hybrid,GB,Medium
+37,2022,Junior,Full-time,Data Analyst,64000,USD,64000,US,WFH,US,Big Enterprise
+38,2022,Junior,Full-time,Data Scientist,38000,EUR,40009,FR,Hybrid,FR,Big Enterprise
+39,2022,Expert,Full-time,Machine Learning Engineer,187200,USD,187200,CA,WFH,CA,Medium
+40,2022,Expert,Full-time,Machine Learning Engineer,116100,USD,116100,CA,WFH,CA,Medium
+41,2022,Expert,Full-time,Data Analyst,150000,USD,150000,US,WFO,US,Medium
+42,2022,Expert,Full-time,Data Analyst,127000,USD,127000,US,WFO,US,Medium
+43,2022,Expert,Full-time,Data Engineer,275000,USD,275000,US,WFH,US,Medium
+44,2022,Expert,Full-time,Data Engineer,166000,USD,166000,US,WFH,US,Medium
+45,2022,Expert,Full-time,Data Scientist,159699,USD,159699,US,WFO,US,Medium
+46,2022,Expert,Full-time,Data Scientist,138938,USD,138938,US,WFO,US,Medium
+47,2022,Junior,Full-time,BI Analyst,76000,USD,76000,US,Hybrid,US,Big Enterprise
+48,2022,Expert,Full-time,Data Analyst,166700,USD,166700,US,WFO,US,Medium
+49,2022,Expert,Full-time,Data Analyst,119000,USD,119000,US,WFO,US,Medium
+50,2022,Expert,Full-time,Data Analyst,130000,USD,130000,US,WFO,US,Medium
+51,2022,Expert,Full-time,Data Analyst,100000,USD,100000,US,WFO,US,Medium
+52,2022,Expert,Full-time,Analytics Engineer,84000,GBP,104038,GB,WFO,GB,Medium
+53,2022,Expert,Full-time,Analytics Engineer,75000,GBP,92891,GB,WFO,GB,Medium
+54,2022,Expert,Full-time,Data Analyst,80000,USD,80000,US,WFO,US,Medium
+55,2022,Expert,Full-time,Data Analyst,52500,USD,52500,US,WFO,US,Medium
+56,2022,Expert,Full-time,Data Engineer,236000,USD,236000,US,WFH,US,Medium
+57,2022,Expert,Full-time,Data Engineer,182000,USD,182000,US,WFH,US,Medium
+58,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFH,US,Medium
+59,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+60,2022,Expert,Full-time,Data Scientist,225000,USD,225000,US,WFO,US,Medium
+61,2022,Expert,Full-time,Data Scientist,156400,USD,156400,US,WFO,US,Medium
+62,2022,Expert,Full-time,Data Analyst,135000,USD,135000,US,WFH,US,Medium
+63,2022,Expert,Full-time,Data Analyst,100000,USD,100000,US,WFH,US,Medium
+64,2022,Expert,Full-time,Machine Learning Engineer,204500,USD,204500,US,WFO,US,Medium
+65,2022,Expert,Full-time,Machine Learning Engineer,142200,USD,142200,US,WFO,US,Medium
+66,2022,Intermediate,Full-time,Research Engineer,240000,USD,240000,US,WFH,US,Medium
+67,2022,Junior,Part-time,Data Analyst,125404,USD,125404,CN,Hybrid,US,Startup
+68,2022,Expert,Full-time,Data Engineer,300000,USD,300000,US,WFO,US,Medium
+69,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFO,US,Medium
+70,2022,Expert,Full-time,Data Engineer,195000,USD,195000,US,WFH,US,Medium
+71,2022,Expert,Full-time,Data Engineer,175000,USD,175000,US,WFH,US,Medium
+72,2022,Expert,Full-time,Data Engineer,155000,USD,155000,US,WFO,US,Medium
+73,2022,Expert,Full-time,Data Engineer,110000,USD,110000,US,WFO,US,Medium
+74,2022,Expert,Full-time,Data Operations Analyst,123000,USD,123000,US,WFO,US,Medium
+75,2022,Expert,Full-time,Data Operations Analyst,92250,USD,92250,US,WFO,US,Medium
+76,2022,Expert,Full-time,Data Engineer,170000,USD,170000,US,WFO,US,Medium
+77,2022,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFO,US,Medium
+78,2022,Intermediate,Full-time,ML Engineer,180000,USD,180000,US,WFH,US,Medium
+79,2022,Intermediate,Full-time,ML Engineer,100000,USD,100000,US,WFH,US,Medium
+80,2022,Expert,Full-time,Data Engineer,97000,USD,97000,US,WFH,US,Medium
+81,2022,Expert,Full-time,Data Engineer,90000,USD,90000,US,WFH,US,Medium
+82,2022,Expert,Full-time,Data Engineer,200000,USD,200000,US,WFO,US,Medium
+83,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFO,US,Medium
+84,2022,Expert,Full-time,Machine Learning Engineer,210000,USD,210000,US,WFH,US,Medium
+85,2022,Expert,Full-time,Machine Learning Engineer,180000,USD,180000,US,WFH,US,Medium
+86,2022,Expert,Full-time,Data Engineer,260000,USD,260000,US,WFO,US,Medium
+87,2022,Expert,Full-time,Data Engineer,180000,USD,180000,US,WFO,US,Medium
+88,2022,Director,Full-time,Analytics Engineer,210000,USD,210000,US,WFH,US,Medium
+89,2022,Director,Full-time,Analytics Engineer,157000,USD,157000,US,WFH,US,Medium
+90,2022,Junior,Full-time,Data Scientist,180000,USD,180000,US,WFH,US,Medium
+91,2022,Junior,Full-time,Data Scientist,100000,USD,100000,US,WFH,US,Medium
+92,2022,Intermediate,Full-time,Data Analyst,80000,USD,80000,US,WFO,US,Medium
+93,2022,Intermediate,Full-time,Data Analyst,52500,USD,52500,US,WFO,US,Medium
+94,2022,Expert,Full-time,Data Architect,128000,USD,128000,US,WFO,US,Medium
+95,2022,Expert,Full-time,Data Architect,81500,USD,81500,US,WFO,US,Medium
+96,2022,Expert,Full-time,Data Operations Engineer,105000,USD,105000,US,WFO,US,Medium
+97,2022,Expert,Full-time,Data Operations Engineer,70000,USD,70000,US,WFO,US,Medium
+98,2022,Expert,Full-time,Data Scientist,175000,USD,175000,US,WFO,US,Medium
+99,2022,Expert,Full-time,Data Scientist,122500,USD,122500,US,WFO,US,Medium
+100,2022,Expert,Full-time,Data Engineer,171000,USD,171000,US,WFO,US,Medium
+101,2022,Expert,Full-time,Data Engineer,117000,USD,117000,US,WFO,US,Medium
+102,2022,Expert,Full-time,Data Scientist,202800,USD,202800,US,WFO,US,Big Enterprise
+103,2022,Expert,Full-time,Data Scientist,104300,USD,104300,US,WFO,US,Big Enterprise
+104,2022,Expert,Full-time,Data Analyst,48000,EUR,50537,ES,WFO,ES,Medium
+105,2022,Expert,Full-time,Data Analyst,35000,EUR,36850,ES,WFO,ES,Medium
+106,2022,Expert,Full-time,Data Engineer,197000,USD,197000,US,WFO,US,Medium
+107,2022,Expert,Full-time,Data Engineer,99000,USD,99000,US,WFO,US,Medium
+108,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFO,US,Medium
+109,2022,Expert,Full-time,Data Engineer,110000,USD,110000,US,WFO,US,Medium
+110,2022,Expert,Full-time,Data Scientist,185900,USD,185900,US,WFO,US,Medium
+111,2022,Expert,Full-time,Data Scientist,129300,USD,129300,US,WFO,US,Medium
+112,2021,Expert,Full-time,3D Computer Vision Researcher,5000,USD,5000,US,WFH,US,Big Enterprise
+113,2022,Intermediate,Full-time,Data Scientist,30000,USD,30000,MX,WFH,MX,Big Enterprise
+114,2022,Intermediate,Full-time,Analytics Engineer,78000,USD,78000,BR,WFH,BR,Medium
+115,2022,Intermediate,Full-time,Analytics Engineer,48000,USD,48000,BR,WFH,BR,Medium
+116,2022,Expert,Full-time,Data Engineer,170000,USD,170000,US,WFO,US,Medium
+117,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFO,US,Medium
+118,2022,Expert,Full-time,Data Analyst,150000,USD,150000,US,WFO,US,Medium
+119,2022,Expert,Full-time,Data Analyst,95000,USD,95000,US,WFO,US,Medium
+120,2022,Intermediate,Full-time,Data Engineer,78000,USD,78000,BR,WFH,BR,Medium
+121,2022,Intermediate,Full-time,Data Engineer,42000,USD,42000,BR,WFH,BR,Medium
+122,2022,Expert,Full-time,Data Architect,345600,USD,345600,US,WFO,US,Medium
+123,2022,Expert,Full-time,Data Architect,230400,USD,230400,US,WFO,US,Medium
+124,2022,Expert,Full-time,Data Engineer,145000,USD,145000,US,WFO,US,Medium
+125,2022,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFO,US,Medium
+126,2022,Intermediate,Full-time,BI Analyst,78000,USD,78000,BR,WFH,BR,Medium
+127,2022,Intermediate,Full-time,BI Analyst,48000,USD,48000,BR,WFH,BR,Medium
+128,2022,Expert,Full-time,Data Analyst,175950,USD,175950,US,WFH,US,Medium
+129,2022,Expert,Full-time,Data Analyst,130050,USD,130050,US,WFH,US,Medium
+130,2022,Expert,Full-time,Data Engineer,205600,USD,205600,US,WFO,US,Big Enterprise
+131,2022,Expert,Full-time,Data Engineer,105700,USD,105700,US,WFO,US,Big Enterprise
+132,2022,Expert,Full-time,Data Analyst,236600,USD,236600,US,WFH,US,Medium
+133,2022,Expert,Full-time,Data Analyst,89200,USD,89200,US,WFH,US,Medium
+134,2022,Intermediate,Full-time,Data Scientist,84000,USD,84000,BR,WFH,BR,Medium
+135,2022,Intermediate,Full-time,Data Scientist,54000,USD,54000,BR,WFH,BR,Medium
+136,2022,Junior,Full-time,Data Scientist,80000,USD,80000,US,WFH,US,Big Enterprise
+137,2022,Expert,Full-time,Marketing Data Analyst,200000,USD,200000,GB,WFH,GB,Startup
+138,2022,Junior,Full-time,Data Scientist,96000,CAD,74286,CA,WFH,CA,Big Enterprise
+139,2022,Expert,Full-time,Data Science Lead,165000,USD,165000,US,Hybrid,US,Startup
+140,2022,Junior,Full-time,Data Scientist,27000,GBP,33440,GB,Hybrid,GB,Big Enterprise
+141,2022,Expert,Full-time,Data Engineer,185900,USD,185900,US,WFO,US,Medium
+142,2022,Expert,Full-time,Data Engineer,129300,USD,129300,US,WFO,US,Medium
+143,2022,Expert,Full-time,Data Analyst,169000,USD,169000,US,WFO,US,Medium
+144,2022,Expert,Full-time,Data Analyst,110600,USD,110600,US,WFO,US,Medium
+145,2021,Junior,Full-time,Power BI Developer,400000,INR,5409,IN,Hybrid,IN,Big Enterprise
+146,2021,Intermediate,Full-time,Data Engineer,100000,AUD,75050,AU,Hybrid,AU,Big Enterprise
+147,2022,Expert,Full-time,Data Engineer,225000,USD,225000,US,WFO,US,Medium
+148,2022,Expert,Full-time,Data Engineer,184100,USD,184100,US,WFO,US,Medium
+149,2022,Expert,Full-time,Data Scientist,185900,USD,185900,US,WFO,US,Medium
+150,2022,Expert,Full-time,Data Scientist,129300,USD,129300,US,WFO,US,Medium
+151,2022,Expert,Full-time,Data Scientist,225000,USD,225000,US,WFO,US,Medium
+152,2022,Expert,Full-time,Data Scientist,156400,USD,156400,US,WFO,US,Medium
+153,2022,Expert,Full-time,Data Scientist,185900,USD,185900,US,WFO,US,Medium
+154,2022,Expert,Full-time,Data Scientist,129300,USD,129300,US,WFO,US,Medium
+155,2022,Junior,Full-time,Machine Learning Engineer,108000,USD,108000,US,WFO,US,Startup
+156,2022,Expert,Full-time,Product Data Scientist,8000,USD,8000,IN,WFH,SG,Big Enterprise
+157,2022,Expert,Full-time,Data Scientist,155000,USD,155000,US,WFH,US,Medium
+158,2022,Expert,Full-time,Data Scientist,38000,USD,38000,US,WFH,US,Medium
+159,2022,Intermediate,Full-time,Data Analyst,85000,USD,85000,US,WFO,US,Medium
+160,2022,Intermediate,Full-time,Data Analyst,65000,USD,65000,US,WFO,US,Medium
+161,2022,Expert,Full-time,Data Scientist,155000,USD,155000,US,WFH,US,Medium
+162,2022,Expert,Full-time,Data Scientist,38000,USD,38000,US,WFH,US,Medium
+163,2022,Intermediate,Full-time,Data Engineer,90000,GBP,111469,GB,WFO,GB,Medium
+164,2022,Intermediate,Full-time,Data Engineer,75000,GBP,92891,GB,WFO,GB,Medium
+165,2022,Expert,Full-time,Data Scientist,153600,USD,153600,US,WFH,US,Medium
+166,2022,Expert,Full-time,Data Scientist,106800,USD,106800,US,WFH,US,Medium
+167,2022,Expert,Full-time,Data Scientist,185000,USD,185000,US,WFH,US,Medium
+168,2022,Expert,Full-time,Data Scientist,50000,USD,50000,US,WFH,US,Medium
+169,2022,Expert,Full-time,Data Engineer,185900,USD,185900,US,WFO,US,Medium
+170,2022,Expert,Full-time,Data Engineer,129300,USD,129300,US,WFO,US,Medium
+171,2022,Expert,Full-time,Data Scientist,155000,USD,155000,US,WFH,US,Medium
+172,2022,Expert,Full-time,Data Scientist,38000,USD,38000,US,WFH,US,Medium
+173,2022,Expert,Full-time,Data Scientist,168000,USD,168000,US,WFH,US,Medium
+174,2022,Expert,Full-time,Data Scientist,130000,USD,130000,US,WFH,US,Medium
+175,2022,Expert,Full-time,Data Scientist,123400,USD,123400,US,WFO,US,Medium
+176,2022,Expert,Full-time,Data Scientist,88100,USD,88100,US,WFO,US,Medium
+177,2022,Expert,Full-time,Data Scientist,120000,USD,120000,US,WFH,US,Startup
+178,2022,Expert,Full-time,Data Scientist,55000,USD,55000,US,WFH,US,Startup
+179,2022,Expert,Full-time,Data Scientist,185900,USD,185900,US,WFO,US,Medium
+180,2022,Expert,Full-time,Data Scientist,129300,USD,129300,US,WFO,US,Medium
+181,2022,Expert,Full-time,Data Engineer,191200,USD,191200,US,WFO,US,Medium
+182,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFO,US,Medium
+183,2022,Expert,Full-time,Data Analyst,169000,USD,169000,US,WFO,US,Medium
+184,2022,Expert,Full-time,Data Analyst,110600,USD,110600,US,WFO,US,Medium
+185,2022,Expert,Full-time,Analytics Engineer,150000,USD,150000,US,WFO,US,Medium
+186,2022,Expert,Full-time,Analytics Engineer,120000,USD,120000,US,WFO,US,Medium
+187,2022,Expert,Full-time,Data Science Consultant,139000,USD,139000,US,WFO,US,Medium
+188,2022,Expert,Full-time,Data Science Consultant,122000,USD,122000,US,WFO,US,Medium
+189,2022,Expert,Full-time,Data Scientist,185900,USD,185900,US,WFO,US,Medium
+190,2022,Expert,Full-time,Data Scientist,129300,USD,129300,US,WFO,US,Medium
+191,2022,Expert,Full-time,Data Analyst,139600,USD,139600,US,WFO,US,Medium
+192,2022,Expert,Full-time,Data Analyst,85700,USD,85700,US,WFO,US,Medium
+193,2022,Expert,Full-time,Data Engineer,185000,USD,185000,US,WFH,US,Medium
+194,2022,Expert,Full-time,Data Engineer,50000,USD,50000,US,WFH,US,Medium
+195,2022,Expert,Full-time,Data Engineer,185900,USD,185900,US,WFO,US,Medium
+196,2022,Expert,Full-time,Data Engineer,129300,USD,129300,US,WFO,US,Medium
+197,2022,Expert,Full-time,Data Scientist,225000,USD,225000,US,WFO,US,Medium
+198,2022,Expert,Full-time,Data Scientist,156400,USD,156400,US,WFO,US,Medium
+199,2022,Expert,Full-time,Data Scientist,200000,USD,200000,US,WFH,US,Medium
+200,2022,Expert,Full-time,Data Scientist,175000,USD,175000,US,WFH,US,Medium
+201,2022,Expert,Full-time,Data Engineer,185900,USD,185900,US,WFO,US,Medium
+202,2022,Expert,Full-time,Data Engineer,129300,USD,129300,US,WFO,US,Medium
+203,2022,Intermediate,Full-time,ML Engineer,148500,USD,148500,US,WFH,US,Big Enterprise
+204,2022,Intermediate,Full-time,ML Engineer,98200,USD,98200,US,WFH,US,Big Enterprise
+205,2022,Expert,Full-time,Data Analyst,115000,USD,115000,US,WFH,US,Medium
+206,2022,Expert,Full-time,Data Analyst,95000,USD,95000,US,WFH,US,Medium
+207,2022,Expert,Full-time,Data Architect,225000,USD,225000,US,WFH,US,Medium
+208,2022,Expert,Full-time,Data Architect,66000,USD,66000,US,WFH,US,Medium
+209,2022,Expert,Full-time,Data Scientist,185000,USD,185000,US,WFH,US,Medium
+210,2022,Expert,Full-time,Data Scientist,50000,USD,50000,US,WFH,US,Medium
+211,2022,Expert,Full-time,Data Scientist,45000,EUR,47379,ES,WFO,ES,Medium
+212,2022,Expert,Full-time,Data Scientist,36000,EUR,37903,ES,WFO,ES,Medium
+213,2022,Intermediate,Full-time,Data Manager,134000,USD,134000,US,WFO,US,Medium
+214,2022,Intermediate,Full-time,Data Manager,98000,USD,98000,US,WFO,US,Medium
+215,2022,Intermediate,Full-time,Data Analyst,105000,USD,105000,US,WFO,US,Medium
+216,2022,Intermediate,Full-time,Data Analyst,62000,USD,62000,US,WFO,US,Medium
+217,2022,Junior,Full-time,BI Data Analyst,57000,USD,57000,US,WFH,US,Big Enterprise
+218,2022,Expert,Full-time,Big Data Engineer,210000,CAD,162502,CA,Hybrid,CA,Medium
+219,2022,Intermediate,Full-time,Data Scientist,144200,USD,144200,US,WFH,US,Medium
+220,2022,Intermediate,Full-time,Data Scientist,115360,USD,115360,US,WFH,US,Medium
+221,2022,Intermediate,Full-time,Data Scientist,120000,AUD,83793,AU,WFO,AU,Big Enterprise
+222,2022,Expert,Full-time,Principal Data Architect,3000000,INR,38483,IN,WFH,IN,Big Enterprise
+223,2022,Expert,Full-time,Data Engineer,70000,EUR,73701,PT,WFO,PT,Medium
+224,2022,Expert,Full-time,Data Engineer,40000,EUR,42114,PT,WFO,PT,Medium
+225,2022,Expert,Full-time,Data Engineer,170000,USD,170000,US,WFH,US,Medium
+226,2022,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Medium
+227,2022,Expert,Full-time,Data Architect,180000,USD,180000,US,WFH,US,Medium
+228,2022,Expert,Full-time,Data Architect,160000,USD,160000,US,WFH,US,Medium
+229,2022,Intermediate,Full-time,Data Scientist,108000,USD,108000,US,Hybrid,US,Big Enterprise
+230,2022,Expert,Full-time,Machine Learning Manager,200000,USD,200000,US,WFH,US,Medium
+231,2022,Expert,Full-time,Machine Learning Manager,150000,USD,150000,US,WFH,US,Medium
+232,2022,Director,Full-time,Data Manager,164000,CAD,126906,CA,Hybrid,CA,Big Enterprise
+233,2022,Expert,Full-time,Data Engineer,188700,USD,188700,US,WFH,US,Medium
+234,2022,Expert,Full-time,Data Engineer,160395,USD,160395,US,WFH,US,Medium
+235,2022,Expert,Full-time,Data Analyst,115934,USD,115934,US,WFH,US,Medium
+236,2022,Expert,Full-time,Data Analyst,81666,USD,81666,US,WFH,US,Medium
+237,2022,Expert,Full-time,Data Engineer,300000,USD,300000,US,WFO,US,Medium
+238,2022,Expert,Full-time,Data Engineer,225000,USD,225000,US,WFO,US,Medium
+239,2022,Expert,Full-time,Data Scientist,198440,USD,198440,US,WFH,US,Medium
+240,2022,Expert,Full-time,Data Scientist,144000,USD,144000,US,WFH,US,Medium
+241,2022,Expert,Full-time,Applied Scientist,191475,USD,191475,US,WFH,US,Medium
+242,2022,Expert,Full-time,Applied Scientist,141525,USD,141525,US,WFH,US,Medium
+243,2022,Expert,Full-time,Data Analyst,48000,EUR,50537,ES,WFO,ES,Medium
+244,2022,Expert,Full-time,Data Analyst,35000,EUR,36850,ES,WFO,ES,Medium
+245,2022,Intermediate,Full-time,Data Scientist,72000,EUR,75806,DE,WFH,DE,Startup
+246,2022,Expert,Full-time,Lead Data Scientist,156868,USD,156868,US,WFH,US,Big Enterprise
+247,2022,Expert,Full-time,BI Analyst,200000,USD,200000,NG,WFH,NG,Startup
+248,2022,Expert,Full-time,Data Scientist,198440,USD,198440,US,WFO,US,Big Enterprise
+249,2022,Expert,Full-time,Data Scientist,144000,USD,144000,US,WFO,US,Big Enterprise
+250,2022,Expert,Full-time,Lead Machine Learning Engineer,66000,EUR,69489,PT,WFH,PT,Big Enterprise
+251,2022,Intermediate,Full-time,NLP Engineer,120000,CZK,5132,CZ,WFH,CZ,Medium
+252,2022,Expert,Contract,Data Analyst,90000,USD,90000,US,WFH,US,Medium
+253,2022,Intermediate,Full-time,Research Scientist,120000,EUR,126344,DE,WFO,DE,Startup
+254,2022,Intermediate,Full-time,Research Scientist,80000,EUR,84229,DE,WFO,DE,Startup
+255,2022,Expert,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Medium
+256,2022,Expert,Full-time,Data Engineer,180000,USD,180000,US,WFH,US,Medium
+257,2022,Intermediate,Full-time,Analytics Engineer,108000,USD,108000,US,WFH,US,Medium
+258,2022,Intermediate,Full-time,Analytics Engineer,85000,USD,85000,US,WFH,US,Medium
+259,2022,Expert,Full-time,Machine Learning Engineer,210000,USD,210000,US,WFH,US,Medium
+260,2022,Expert,Full-time,Machine Learning Engineer,180000,USD,180000,US,WFH,US,Medium
+261,2022,Expert,Full-time,Data Engineer,165000,USD,165000,US,WFH,US,Medium
+262,2022,Expert,Full-time,Data Engineer,132000,USD,132000,US,WFH,US,Medium
+263,2022,Expert,Full-time,Analytics Engineer,130000,USD,130000,US,WFH,US,Medium
+264,2022,Expert,Full-time,Analytics Engineer,110000,USD,110000,US,WFH,US,Medium
+265,2022,Intermediate,Full-time,BI Data Analyst,65000,AUD,45388,AU,Hybrid,AU,Big Enterprise
+266,2021,Junior,Full-time,Data Analyst,56000,AUD,42028,AU,Hybrid,AU,Big Enterprise
+267,2022,Intermediate,Full-time,Data Analytics Engineer,135000,USD,135000,US,WFH,US,Big Enterprise
+268,2022,Expert,Full-time,Data Engineer,178800,USD,178800,US,WFH,US,Big Enterprise
+269,2022,Expert,Full-time,Data Engineer,132100,USD,132100,US,WFH,US,Big Enterprise
+270,2022,Junior,Full-time,Data Analyst,20000,USD,20000,CR,Hybrid,US,Medium
+271,2022,Expert,Full-time,Machine Learning Engineer,140000,USD,140000,CA,WFO,CA,Medium
+272,2022,Expert,Full-time,Machine Learning Engineer,110000,USD,110000,CA,WFO,CA,Medium
+273,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+274,2022,Expert,Full-time,Data Engineer,85000,USD,85000,US,WFH,US,Medium
+275,2022,Expert,Full-time,ETL Developer,250000,USD,250000,US,WFH,US,Medium
+276,2022,Expert,Full-time,ETL Developer,63000,USD,63000,US,WFH,US,Medium
+277,2022,Director,Full-time,Data Engineer,187200,USD,187200,US,WFH,US,Medium
+278,2022,Director,Full-time,Data Engineer,116100,USD,116100,US,WFH,US,Medium
+279,2022,Intermediate,Full-time,Data Scientist,10000,USD,10000,TR,WFO,TR,Medium
+280,2022,Expert,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Medium
+281,2022,Expert,Full-time,Data Engineer,145000,USD,145000,US,WFH,US,Medium
+282,2022,Expert,Full-time,Data Engineer,229998,USD,229998,US,WFO,US,Big Enterprise
+283,2022,Expert,Full-time,Data Engineer,154545,USD,154545,US,WFO,US,Big Enterprise
+284,2022,Expert,Full-time,Data Scientist,215000,USD,215000,US,WFO,US,Big Enterprise
+285,2022,Expert,Full-time,Data Scientist,159000,USD,159000,US,WFO,US,Big Enterprise
+286,2022,Expert,Full-time,Data Engineer,229998,USD,229998,US,WFO,US,Big Enterprise
+287,2022,Expert,Full-time,Data Engineer,154545,USD,154545,US,WFO,US,Big Enterprise
+288,2022,Junior,Full-time,AI Scientist,50000,USD,50000,US,WFH,US,Medium
+289,2022,Expert,Full-time,Data Scientist Lead,183000,USD,183000,US,WFH,US,Big Enterprise
+290,2022,Expert,Full-time,Data Analyst,99750,USD,99750,US,WFH,US,Medium
+291,2022,Expert,Full-time,Data Analyst,68400,USD,68400,US,WFH,US,Medium
+292,2022,Expert,Full-time,Data Scientist,236900,USD,236900,US,WFH,US,Big Enterprise
+293,2022,Expert,Full-time,Data Scientist,159200,USD,159200,US,WFH,US,Big Enterprise
+294,2022,Expert,Full-time,Data Science Manager,243225,USD,243225,US,WFH,US,Medium
+295,2022,Expert,Full-time,Data Science Manager,179775,USD,179775,US,WFH,US,Medium
+296,2022,Expert,Full-time,Data Engineer,175000,USD,175000,US,WFH,US,Medium
+297,2022,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Medium
+298,2022,Expert,Full-time,Machine Learning Engineer,210000,USD,210000,US,WFH,US,Medium
+299,2022,Expert,Full-time,Machine Learning Engineer,180000,USD,180000,US,WFH,US,Medium
+300,2022,Expert,Full-time,Data Scientist,148000,USD,148000,US,WFH,US,Medium
+301,2022,Expert,Full-time,Data Scientist,128000,USD,128000,US,WFH,US,Medium
+302,2022,Expert,Full-time,Data Architect,190000,USD,190000,US,WFH,US,Medium
+303,2022,Expert,Full-time,Data Architect,135000,USD,135000,US,WFH,US,Medium
+304,2022,Expert,Full-time,Analytics Engineer,130000,USD,130000,US,WFH,US,Medium
+305,2022,Expert,Full-time,Analytics Engineer,110000,USD,110000,US,WFH,US,Medium
+306,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+307,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+308,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+309,2022,Expert,Full-time,Data Engineer,85000,USD,85000,US,WFH,US,Medium
+310,2022,Expert,Full-time,Data Scientist,218000,USD,218000,US,WFO,US,Medium
+311,2022,Expert,Full-time,Data Scientist,145300,USD,145300,US,WFO,US,Medium
+312,2022,Expert,Full-time,ML Engineer,195400,USD,195400,US,WFH,US,Big Enterprise
+313,2022,Expert,Full-time,ML Engineer,131300,USD,131300,US,WFH,US,Big Enterprise
+314,2022,Junior,Full-time,Data Specialist,105000,USD,105000,CL,WFH,US,Big Enterprise
+315,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+316,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+317,2022,Expert,Full-time,Data Scientist,207000,USD,207000,US,WFH,US,Medium
+318,2022,Expert,Full-time,Data Scientist,153000,USD,153000,US,WFH,US,Medium
+319,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+320,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+321,2022,Expert,Full-time,Data Analyst,110000,USD,110000,US,WFO,US,Medium
+322,2022,Expert,Full-time,Data Analyst,99000,USD,99000,US,WFO,US,Medium
+323,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+324,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+325,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+326,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+327,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+328,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+329,2022,Expert,Full-time,Machine Learning Engineer,200000,USD,200000,PR,WFH,PR,Medium
+330,2022,Expert,Full-time,Machine Learning Engineer,135000,USD,135000,PR,WFH,PR,Medium
+331,2022,Expert,Full-time,Data Scientist,207000,USD,207000,US,WFH,US,Medium
+332,2022,Expert,Full-time,Data Scientist,153000,USD,153000,US,WFH,US,Medium
+333,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+334,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+335,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+336,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+337,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+338,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+339,2022,Expert,Full-time,Data Engineer,195700,USD,195700,US,WFO,US,Medium
+340,2022,Expert,Full-time,Data Engineer,130500,USD,130500,US,WFO,US,Medium
+341,2022,Expert,Full-time,ML Engineer,130000,USD,130000,US,WFH,US,Medium
+342,2022,Expert,Full-time,ML Engineer,84000,USD,84000,US,WFH,US,Medium
+343,2022,Intermediate,Full-time,Data Operations Engineer,100000,USD,100000,US,WFH,US,Medium
+344,2022,Intermediate,Full-time,Data Operations Engineer,60000,USD,60000,US,WFH,US,Medium
+345,2022,Intermediate,Full-time,Data Engineer,65000,GBP,80505,GB,WFH,GB,Medium
+346,2022,Intermediate,Full-time,Data Engineer,55000,GBP,68120,GB,WFH,GB,Medium
+347,2022,Expert,Full-time,Data Engineer,141300,USD,141300,US,WFO,US,Medium
+348,2022,Expert,Full-time,Data Engineer,102100,USD,102100,US,WFO,US,Medium
+349,2022,Expert,Full-time,Data Analyst,48000,EUR,50537,ES,WFO,ES,Medium
+350,2022,Expert,Full-time,Data Analyst,35000,EUR,36850,ES,WFO,ES,Medium
+351,2022,Intermediate,Full-time,Business Data Analyst,150000,USD,150000,US,WFH,US,Big Enterprise
+352,2022,Intermediate,Full-time,Data Scientist,83000,GBP,102799,GB,WFH,GB,Medium
+353,2022,Junior,Full-time,Data Scientist,1800000,INR,23090,IN,Hybrid,IN,Medium
+354,2022,Expert,Full-time,Data Analyst,144000,USD,144000,US,WFH,US,Medium
+355,2022,Expert,Full-time,Data Analyst,113000,USD,113000,US,WFH,US,Medium
+356,2022,Junior,Full-time,AI Scientist,30000,EUR,31586,PT,WFH,ES,Medium
+357,2022,Expert,Full-time,Data Architect,195400,USD,195400,US,WFH,US,Big Enterprise
+358,2022,Expert,Full-time,Data Architect,131300,USD,131300,US,WFH,US,Big Enterprise
+359,2022,Expert,Full-time,Machine Learning Engineer,195400,USD,195400,US,WFH,US,Big Enterprise
+360,2022,Expert,Full-time,Machine Learning Engineer,131300,USD,131300,US,WFH,US,Big Enterprise
+361,2022,Expert,Full-time,Data Architect,195400,USD,195400,US,WFH,US,Big Enterprise
+362,2022,Expert,Full-time,Data Architect,131300,USD,131300,US,WFH,US,Big Enterprise
+363,2022,Expert,Full-time,Data Architect,190000,USD,190000,US,WFH,US,Medium
+364,2022,Expert,Full-time,Data Architect,135000,USD,135000,US,WFH,US,Medium
+365,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFH,US,Medium
+366,2022,Expert,Full-time,Data Engineer,80000,USD,80000,US,WFH,US,Medium
+367,2022,Junior,Full-time,BI Data Analyst,633000,INR,8120,IN,WFH,IN,Medium
+368,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+369,2022,Expert,Full-time,Data Engineer,85000,USD,85000,US,WFH,US,Medium
+370,2022,Expert,Full-time,Data Engineer,178800,USD,178800,US,WFH,US,Big Enterprise
+371,2022,Expert,Full-time,Data Engineer,132100,USD,132100,US,WFH,US,Big Enterprise
+372,2022,Intermediate,Contract,NLP Engineer,60000,USD,60000,IN,WFH,US,Startup
+373,2022,Expert,Full-time,Machine Learning Engineer,60000,EUR,63172,FI,Hybrid,FI,Startup
+374,2022,Junior,Full-time,Business Data Analyst,50000,USD,50000,IN,WFH,AS,Big Enterprise
+375,2022,Expert,Full-time,Data Engineer,140000,USD,140000,US,WFH,US,Medium
+376,2022,Expert,Full-time,Data Engineer,105000,USD,105000,US,WFH,US,Medium
+377,2022,Intermediate,Full-time,Data Engineer,65000,GBP,80505,GB,WFH,GB,Medium
+378,2022,Intermediate,Full-time,Data Engineer,55000,GBP,68120,GB,WFH,GB,Medium
+379,2022,Expert,Full-time,Analytics Engineer,190000,USD,190000,US,WFH,US,Medium
+380,2022,Expert,Full-time,Analytics Engineer,140000,USD,140000,US,WFH,US,Medium
+381,2022,Intermediate,Full-time,Data Operations Engineer,100000,USD,100000,US,WFH,US,Medium
+382,2022,Intermediate,Full-time,Data Operations Engineer,60000,USD,60000,US,WFH,US,Medium
+383,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFH,US,Big Enterprise
+384,2022,Expert,Full-time,Data Scientist,165000,USD,165000,US,WFH,US,Big Enterprise
+385,2022,Expert,Full-time,Applied Machine Learning Scientist,108000,USD,108000,US,WFO,US,Big Enterprise
+386,2021,Junior,Full-time,Machine Learning Research Engineer,20000,USD,20000,FR,Hybrid,FR,Medium
+387,2022,Expert,Full-time,Data Architect,190000,USD,190000,US,WFH,US,Medium
+388,2022,Expert,Full-time,Data Architect,135000,USD,135000,US,WFH,US,Medium
+389,2022,Expert,Full-time,Data Scientist,179400,USD,179400,US,WFO,US,Medium
+390,2022,Expert,Full-time,Data Scientist,154000,USD,154000,US,WFO,US,Medium
+391,2022,Expert,Full-time,Machine Learning Scientist,193900,USD,193900,US,WFO,US,Medium
+392,2022,Expert,Full-time,Machine Learning Scientist,129300,USD,129300,US,WFO,US,Medium
+393,2022,Director,Full-time,Data Science Manager,222640,USD,222640,US,WFO,US,Medium
+394,2022,Director,Full-time,Data Science Manager,182160,USD,182160,US,WFO,US,Medium
+395,2022,Intermediate,Full-time,Data Engineer,150000,USD,150000,US,WFO,US,Medium
+396,2022,Intermediate,Full-time,Data Engineer,100000,USD,100000,US,WFO,US,Medium
+397,2022,Expert,Full-time,Analytics Engineer,122500,USD,122500,US,WFH,US,Medium
+398,2022,Expert,Full-time,Analytics Engineer,100000,USD,100000,US,WFH,US,Medium
+399,2022,Director,Full-time,Data Engineer,297500,USD,297500,US,WFH,US,Medium
+400,2022,Director,Full-time,Data Engineer,260000,USD,260000,US,WFH,US,Medium
+401,2021,Junior,Full-time,Machine Learning Developer,15000,USD,15000,TH,WFH,TH,Big Enterprise
+402,2022,Expert,Full-time,Data Engineering Manager,193000,USD,193000,ES,WFH,US,Medium
+403,2022,Junior,Full-time,Data Scientist,93000,USD,93000,US,WFO,US,Medium
+404,2022,Junior,Full-time,Data Scientist,73000,USD,73000,US,WFO,US,Medium
+405,2022,Intermediate,Full-time,Data Operations Engineer,100000,USD,100000,US,WFH,US,Medium
+406,2022,Intermediate,Full-time,Data Operations Engineer,60000,USD,60000,US,WFH,US,Medium
+407,2022,Junior,Full-time,Data Analyst,40300,BRL,7828,BR,WFH,BR,Big Enterprise
+408,2022,Expert,Full-time,Data Scientist,136994,USD,136994,US,WFH,US,Medium
+409,2022,Expert,Full-time,Data Scientist,101570,USD,101570,US,WFH,US,Medium
+410,2022,Expert,Full-time,ETL Developer,250000,USD,250000,US,WFH,US,Medium
+411,2022,Expert,Full-time,ETL Developer,63000,USD,63000,US,WFH,US,Medium
+412,2022,Intermediate,Full-time,Data Manager,134000,USD,134000,US,WFO,US,Medium
+413,2022,Intermediate,Full-time,Data Manager,98000,USD,98000,US,WFO,US,Medium
+414,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+415,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+416,2022,Expert,Full-time,Director of Data Science,55000,EUR,57908,FR,Hybrid,FR,Big Enterprise
+417,2022,Intermediate,Full-time,Data Analyst,136000,USD,136000,US,WFH,US,Medium
+418,2022,Intermediate,Full-time,Data Analyst,112000,USD,112000,US,WFH,US,Medium
+419,2022,Expert,Full-time,Data Scientist,172000,USD,172000,US,WFH,US,Medium
+420,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+421,2022,Expert,Full-time,Data Engineer,215000,USD,215000,US,WFO,US,Medium
+422,2022,Expert,Full-time,Data Engineer,164000,USD,164000,US,WFO,US,Medium
+423,2022,Expert,Full-time,Data Engineer,300000,USD,300000,US,WFO,US,Medium
+424,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFO,US,Medium
+425,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFH,US,Medium
+426,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFH,US,Medium
+427,2022,Expert,Full-time,Data Engineer,180000,USD,180000,US,WFH,US,Medium
+428,2022,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Medium
+429,2021,Junior,Full-time,Data Engineer,33000,GBP,45390,GB,Hybrid,GB,Big Enterprise
+430,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFH,US,Medium
+431,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFH,US,Medium
+432,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+433,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+434,2022,Intermediate,Full-time,Data Analyst,97500,USD,97500,US,WFH,US,Big Enterprise
+435,2022,Expert,Full-time,Applied Scientist,212800,USD,212800,US,WFH,US,Medium
+436,2022,Expert,Full-time,Applied Scientist,142800,USD,142800,US,WFH,US,Medium
+437,2022,Intermediate,Full-time,Data Scientist,70000,EUR,73701,NL,Hybrid,NL,Big Enterprise
+438,2022,Junior,Full-time,Data Scientist,50000,USD,50000,US,Hybrid,DE,Medium
+439,2022,Junior,Full-time,Data Analyst,500000,INR,6413,FR,WFH,IN,Big Enterprise
+440,2022,Expert,Full-time,Data Scientist,151800,USD,151800,US,WFO,US,Medium
+441,2022,Expert,Full-time,Data Scientist,130240,USD,130240,US,WFO,US,Medium
+442,2022,Expert,Full-time,Analytics Engineer,165000,USD,165000,US,WFH,US,Medium
+443,2022,Expert,Full-time,Analytics Engineer,140250,USD,140250,US,WFH,US,Medium
+444,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFO,US,Medium
+445,2022,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFO,US,Medium
+446,2022,Expert,Full-time,Data Scientist,179400,USD,179400,US,WFH,US,Medium
+447,2022,Expert,Full-time,Data Scientist,154000,USD,154000,US,WFH,US,Medium
+448,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+449,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+450,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+451,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+452,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+453,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+454,2022,Intermediate,Full-time,Financial Data Analyst,75000,USD,75000,US,WFO,US,Medium
+455,2022,Intermediate,Full-time,Data Engineer,80000,EUR,84229,GR,WFH,GR,Medium
+456,2022,Intermediate,Full-time,Data Engineer,70000,EUR,73701,GR,WFH,GR,Medium
+457,2022,Intermediate,Full-time,Data Engineer,80000,GBP,99084,GB,WFH,GB,Medium
+458,2022,Intermediate,Full-time,Data Engineer,70000,GBP,86698,GB,WFH,GB,Medium
+459,2022,Intermediate,Full-time,Data Engineer,80000,EUR,84229,ES,WFH,ES,Medium
+460,2022,Intermediate,Full-time,Data Engineer,70000,EUR,73701,ES,WFH,ES,Medium
+461,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+462,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+463,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+464,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+465,2022,Expert,Full-time,Analytics Engineer,83376,GBP,103265,GB,WFH,GB,Medium
+466,2022,Expert,Full-time,Analytics Engineer,65004,GBP,80510,GB,WFH,GB,Medium
+467,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+468,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+469,2022,Expert,Full-time,Data Engineer,84958,GBP,105224,GB,WFH,GB,Medium
+470,2022,Expert,Full-time,Data Engineer,66822,GBP,82762,GB,WFH,GB,Medium
+471,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+472,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+473,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFO,US,Medium
+474,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFO,US,Medium
+475,2022,Expert,Full-time,Data Analyst,115000,USD,115000,US,WFO,US,Big Enterprise
+476,2022,Junior,Full-time,Data Scientist,30000,EUR,31586,ES,Hybrid,ES,Medium
+477,2022,Expert,Full-time,Data Operations Analyst,81000,USD,81000,US,WFH,US,Medium
+478,2022,Expert,Full-time,Data Operations Analyst,66000,USD,66000,US,WFH,US,Medium
+479,2022,Junior,Full-time,Data Analyst,46000,USD,46000,US,WFH,US,Big Enterprise
+480,2022,Junior,Full-time,Data Engineer,80000,USD,80000,US,WFH,US,Big Enterprise
+481,2022,Director,Full-time,Machine Learning Scientist,200000,USD,200000,US,WFH,US,Startup
+482,2022,Director,Full-time,Machine Learning Scientist,180000,USD,180000,US,WFH,US,Startup
+483,2022,Director,Full-time,AI Scientist,200000,USD,200000,US,WFH,US,Startup
+484,2022,Expert,Full-time,Data Scientist,204100,USD,204100,US,WFO,US,Medium
+485,2022,Expert,Full-time,Data Scientist,136100,USD,136100,US,WFO,US,Medium
+486,2022,Expert,Full-time,Analytics Engineer,250000,USD,250000,US,WFO,US,Medium
+487,2022,Expert,Full-time,Analytics Engineer,63000,USD,63000,US,WFO,US,Medium
+488,2022,Intermediate,Full-time,Data Scientist,96000,GBP,118900,GB,WFO,GB,Medium
+489,2022,Intermediate,Full-time,Data Scientist,90000,GBP,111469,GB,WFO,GB,Medium
+490,2021,Junior,Part-time,Computer Vision Software Engineer,120000,DKK,19073,DK,Hybrid,DK,Big Enterprise
+491,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+492,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+493,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+494,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+495,2022,Expert,Full-time,Data Scientist,191475,USD,191475,US,WFH,US,Medium
+496,2022,Expert,Full-time,Data Scientist,141525,USD,141525,US,WFH,US,Medium
+497,2022,Expert,Full-time,Data Specialist,95000,USD,95000,US,WFH,US,Medium
+498,2022,Expert,Full-time,Data Specialist,70000,USD,70000,US,WFH,US,Medium
+499,2022,Intermediate,Full-time,Applied Machine Learning Scientist,75000,USD,75000,BO,WFH,US,Medium
+500,2022,Intermediate,Contract,Analytics Engineer,7500,USD,7500,BO,Hybrid,BO,Medium
+501,2022,Intermediate,Full-time,Data Analyst,113000,USD,113000,US,WFO,US,Big Enterprise
+502,2022,Expert,Full-time,Data Scientist,170000,USD,170000,US,WFH,US,Medium
+503,2022,Expert,Full-time,Data Scientist,130000,USD,130000,US,WFH,US,Medium
+504,2022,Intermediate,Full-time,Data Analytics Consultant,113000,USD,113000,US,WFH,US,Big Enterprise
+505,2022,Intermediate,Full-time,Product Data Analyst,140000,USD,140000,US,WFH,US,Medium
+506,2021,Expert,Full-time,Data Analyst,50000,USD,50000,PH,WFH,PH,Startup
+507,2022,Intermediate,Full-time,BI Data Analyst,77000,AUD,53767,AU,WFH,AU,Medium
+508,2022,Expert,Full-time,Data Scientist,175000,USD,175000,US,WFO,US,Medium
+509,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFO,US,Medium
+510,2022,Junior,Full-time,3D Computer Vision Researcher,2324,USD,2324,AX,WFO,AL,Big Enterprise
+511,2022,Expert,Full-time,Lead Data Scientist,28500,EUR,30006,PT,Hybrid,PT,Startup
+512,2022,Expert,Full-time,Analytics Engineer,250000,USD,250000,US,WFO,US,Medium
+513,2022,Expert,Full-time,Analytics Engineer,63000,USD,63000,US,WFO,US,Medium
+514,2022,Expert,Full-time,Data Scientist,160000,USD,160000,US,WFO,US,Big Enterprise
+515,2022,Expert,Full-time,Data Scientist,119300,USD,119300,US,WFO,US,Big Enterprise
+516,2022,Intermediate,Full-time,Research Scientist,145000,USD,145000,US,Hybrid,US,Big Enterprise
+517,2022,Expert,Full-time,Data Engineer,105000,USD,105000,US,WFO,US,Medium
+518,2022,Expert,Full-time,Data Engineer,90000,USD,90000,US,WFO,US,Medium
+519,2022,Expert,Full-time,ETL Developer,146200,USD,146200,US,WFH,US,Medium
+520,2022,Expert,Full-time,ETL Developer,124270,USD,124270,US,WFH,US,Medium
+521,2022,Intermediate,Full-time,Data Scientist,225000,USD,225000,US,WFO,US,Medium
+522,2022,Intermediate,Full-time,Data Scientist,160000,USD,160000,US,WFO,US,Medium
+523,2022,Intermediate,Full-time,Data Scientist,52000,EUR,54749,NL,WFH,NL,Startup
+524,2022,Expert,Full-time,Data Engineer,185800,USD,185800,CA,WFH,CA,Medium
+525,2022,Expert,Full-time,Data Engineer,137400,USD,137400,CA,WFH,CA,Medium
+526,2022,Expert,Full-time,Analytics Engineer,245000,USD,245000,US,WFO,US,Medium
+527,2022,Expert,Full-time,Analytics Engineer,180000,USD,180000,US,WFO,US,Medium
+528,2022,Expert,Full-time,Analytics Engineer,203500,USD,203500,US,WFO,US,Medium
+529,2022,Expert,Full-time,Analytics Engineer,152000,USD,152000,US,WFO,US,Medium
+530,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFO,US,Medium
+531,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFO,US,Medium
+532,2022,Expert,Full-time,Machine Learning Infrastructure Engineer,186000,USD,186000,US,WFH,US,Medium
+533,2022,Expert,Full-time,Machine Learning Infrastructure Engineer,148800,USD,148800,US,WFH,US,Medium
+534,2022,Expert,Full-time,Lead Machine Learning Engineer,7500000,INR,96209,IN,Hybrid,IN,Big Enterprise
+535,2022,Intermediate,Full-time,Machine Learning Engineer,104000,GBP,128809,GB,Hybrid,GB,Big Enterprise
+536,2022,Junior,Full-time,Data Scientist,82000,USD,82000,US,WFO,US,Big Enterprise
+537,2022,Junior,Part-time,Data Scientist,110000,USD,110000,DO,WFH,FR,Medium
+538,2022,Intermediate,Full-time,Applied Machine Learning Scientist,173000,USD,173000,US,Hybrid,US,Medium
+539,2022,Expert,Full-time,Data Scientist,203500,USD,203500,US,WFO,US,Medium
+540,2022,Expert,Full-time,Data Scientist,152000,USD,152000,US,WFO,US,Medium
+541,2022,Expert,Full-time,Machine Learning Engineer,186000,USD,186000,US,WFH,US,Medium
+542,2022,Expert,Full-time,Machine Learning Engineer,148800,USD,148800,US,WFH,US,Medium
+543,2022,Junior,Full-time,BI Data Analyst,32400,BRL,6294,BR,WFH,BR,Big Enterprise
+544,2022,Intermediate,Full-time,Data Science Manager,158000,USD,158000,US,WFH,US,Medium
+545,2022,Intermediate,Full-time,Data Science Manager,134000,USD,134000,US,WFH,US,Medium
+546,2022,Expert,Full-time,Data Scientist,170000,USD,170000,US,WFH,US,Medium
+547,2022,Expert,Full-time,Data Scientist,120000,USD,120000,US,WFH,US,Medium
+548,2022,Director,Full-time,Analytics Engineer,200000,USD,200000,US,WFH,US,Medium
+549,2022,Director,Full-time,Analytics Engineer,150000,USD,150000,US,WFH,US,Medium
+550,2022,Expert,Full-time,Data Analyst,216200,USD,216200,US,WFO,US,Medium
+551,2022,Expert,Full-time,Data Analyst,144100,USD,144100,US,WFO,US,Medium
+552,2022,Intermediate,Full-time,Data Scientist,110000,EUR,115816,NL,WFO,NL,Medium
+553,2022,Intermediate,Full-time,Data Scientist,85000,EUR,89494,NL,WFO,NL,Medium
+554,2022,Expert,Full-time,ETL Developer,250000,USD,250000,US,WFO,US,Medium
+555,2022,Expert,Full-time,ETL Developer,63000,USD,63000,US,WFO,US,Medium
+556,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFH,US,Medium
+557,2022,Expert,Full-time,Data Engineer,85000,USD,85000,US,WFH,US,Medium
+558,2022,Expert,Full-time,Machine Learning Engineer,135000,USD,135000,US,WFH,US,Medium
+559,2022,Expert,Full-time,Machine Learning Engineer,85000,USD,85000,US,WFH,US,Medium
+560,2022,Expert,Full-time,Data Science Manager,206000,USD,206000,US,WFH,US,Medium
+561,2022,Expert,Full-time,Data Science Manager,175100,USD,175100,US,WFH,US,Medium
+562,2022,Expert,Full-time,Machine Learning Engineer,189650,USD,189650,US,WFO,US,Medium
+563,2022,Expert,Full-time,Machine Learning Engineer,164996,USD,164996,US,WFO,US,Medium
+564,2022,Expert,Full-time,Data Architect,149040,USD,149040,US,WFH,US,Medium
+565,2022,Expert,Full-time,Data Architect,113900,USD,113900,US,WFH,US,Medium
+566,2022,Expert,Full-time,Data Engineer,154000,USD,154000,US,WFH,US,Medium
+567,2022,Expert,Full-time,Data Engineer,126000,USD,126000,US,WFH,US,Medium
+568,2022,Expert,Full-time,Machine Learning Engineer,200000,USD,200000,US,WFH,US,Big Enterprise
+569,2022,Expert,Full-time,Machine Learning Engineer,150000,USD,150000,US,WFH,US,Big Enterprise
+570,2022,Expert,Full-time,Data Engineer,195700,USD,195700,US,WFO,US,Medium
+571,2022,Expert,Full-time,Data Engineer,130500,USD,130500,US,WFO,US,Medium
+572,2022,Expert,Full-time,Analytics Engineer,170000,USD,170000,US,WFH,US,Medium
+573,2022,Expert,Full-time,Analytics Engineer,135000,USD,135000,US,WFH,US,Medium
+574,2022,Intermediate,Full-time,Data Engineer,80000,GBP,99084,GB,WFO,GB,Medium
+575,2022,Intermediate,Full-time,Data Engineer,60000,GBP,74313,GB,WFO,GB,Medium
+576,2022,Expert,Full-time,Data Analyst,117000,USD,117000,US,WFH,US,Medium
+577,2022,Expert,Full-time,Data Analyst,99450,USD,99450,US,WFH,US,Medium
+578,2022,Expert,Full-time,Data Engineer,200000,USD,200000,PR,WFH,PR,Medium
+579,2022,Expert,Full-time,Data Engineer,135000,USD,135000,PR,WFH,PR,Medium
+580,2022,Expert,Full-time,Machine Learning Engineer,193900,USD,193900,US,WFO,US,Medium
+581,2022,Expert,Full-time,Machine Learning Engineer,129300,USD,129300,US,WFO,US,Medium
+582,2022,Junior,Full-time,Machine Learning Engineer,45000,GBP,55734,GB,WFH,GB,Startup
+583,2022,Expert,Full-time,Data Analyst,70000,GBP,86698,GB,WFO,GB,Medium
+584,2022,Expert,Full-time,Data Analyst,50000,GBP,61927,GB,WFO,GB,Medium
+585,2022,Expert,Full-time,Data Analyst,175000,USD,175000,US,WFH,US,Medium
+586,2022,Expert,Full-time,Data Analyst,130000,USD,130000,US,WFH,US,Medium
+587,2022,Expert,Full-time,Data Engineer,188100,USD,188100,US,WFO,US,Medium
+588,2022,Expert,Full-time,Data Engineer,139860,USD,139860,US,WFO,US,Medium
+589,2022,Expert,Full-time,Machine Learning Engineer,248700,USD,248700,US,WFO,US,Medium
+590,2022,Expert,Full-time,Machine Learning Engineer,167100,USD,167100,US,WFO,US,Medium
+591,2022,Intermediate,Full-time,Data Analyst,450000,INR,5772,IN,WFH,IN,Startup
+592,2022,Expert,Full-time,Data Scientist,123400,USD,123400,US,WFO,US,Medium
+593,2022,Expert,Full-time,Data Scientist,88100,USD,88100,US,WFO,US,Medium
+594,2022,Intermediate,Full-time,BI Data Analyst,48000,EUR,50537,DE,WFH,DE,Startup
+595,2022,Expert,Full-time,Data Scientist,245000,USD,245000,US,WFO,US,Medium
+596,2022,Expert,Full-time,Data Scientist,205000,USD,205000,US,WFO,US,Medium
+597,2022,Expert,Full-time,Data Engineer,141300,USD,141300,US,WFO,US,Medium
+598,2022,Expert,Full-time,Data Engineer,102100,USD,102100,US,WFO,US,Medium
+599,2022,Expert,Full-time,Data Architect,141300,USD,141300,US,WFO,US,Medium
+600,2022,Expert,Full-time,Data Architect,102100,USD,102100,US,WFO,US,Medium
+601,2022,Junior,Full-time,Data Analyst,50000,USD,50000,AR,WFH,AR,Big Enterprise
+602,2022,Junior,Full-time,Data Scientist,80000,EUR,84229,BE,WFH,BE,Big Enterprise
+603,2022,Expert,Full-time,Data Scientist,12500,BRL,2428,BR,WFH,BR,Big Enterprise
+604,2022,Intermediate,Full-time,Lead Data Scientist,50000,GBP,61927,GB,Hybrid,GB,Startup
+605,2022,Expert,Full-time,Data Architect,250000,USD,250000,US,WFO,US,Medium
+606,2022,Expert,Full-time,Data Architect,63000,USD,63000,US,WFO,US,Medium
+607,2022,Expert,Full-time,Data Science Manager,189500,USD,189500,US,WFH,US,Big Enterprise
+608,2022,Expert,Full-time,Data Science Manager,140100,USD,140100,US,WFH,US,Big Enterprise
+609,2022,Expert,Full-time,Data Engineer,177600,USD,177600,US,WFH,US,Big Enterprise
+610,2022,Expert,Full-time,Data Engineer,131300,USD,131300,US,WFH,US,Big Enterprise
+611,2022,Intermediate,Full-time,Data Engineer,24000,USD,24000,US,WFO,US,Medium
+612,2022,Intermediate,Full-time,Data Engineer,24000,USD,24000,US,WFO,US,Medium
+613,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFO,US,Medium
+614,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFO,US,Medium
+615,2022,Expert,Full-time,Machine Learning Engineer,202900,USD,202900,US,WFH,US,Big Enterprise
+616,2022,Expert,Full-time,Machine Learning Engineer,131300,USD,131300,US,WFH,US,Big Enterprise
+617,2022,Expert,Full-time,Data Engineer,145000,USD,145000,US,WFH,US,Medium
+618,2022,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFH,US,Medium
+619,2022,Junior,Full-time,Machine Learning Engineer,115000,USD,115000,US,Hybrid,US,Big Enterprise
+620,2022,Intermediate,Full-time,Machine Learning Engineer,193900,USD,193900,US,WFO,US,Medium
+621,2022,Intermediate,Full-time,Machine Learning Engineer,129300,USD,129300,US,WFO,US,Medium
+622,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFH,US,Big Enterprise
+623,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Big Enterprise
+624,2022,Intermediate,Full-time,Data Analyst,216200,USD,216200,US,WFO,US,Medium
+625,2022,Intermediate,Full-time,Data Analyst,144100,USD,144100,US,WFO,US,Medium
+626,2022,Expert,Full-time,Machine Learning Scientist,216000,USD,216000,US,WFO,US,Medium
+627,2022,Expert,Full-time,Machine Learning Scientist,144000,USD,144000,US,WFO,US,Medium
+628,2022,Junior,Full-time,Data Analyst,150000,USD,150000,US,WFH,US,Big Enterprise
+629,2021,Junior,Full-time,Machine Learning Research Engineer,900000,INR,12171,IN,WFH,IN,Medium
+630,2022,Intermediate,Full-time,Data Scientist,4200000,INR,53877,IN,WFH,ID,Big Enterprise
+631,2022,Junior,Full-time,Applied Data Scientist,50000,USD,50000,AT,Hybrid,AT,Medium
+632,2021,Expert,Full-time,Cloud Data Architect,250000,USD,250000,US,Hybrid,US,Big Enterprise
+633,2022,Director,Full-time,Research Scientist,80000,EUR,84229,NL,WFO,NL,Big Enterprise
+634,2022,Intermediate,Full-time,Data Scientist,107000,GBP,132524,GB,WFH,GB,Medium
+635,2022,Expert,Full-time,Analytics Engineer,48000,USD,48000,AR,WFH,US,Startup
+636,2022,Director,Full-time,Data Science Manager,260500,USD,260500,US,WFO,US,Medium
+637,2022,Director,Full-time,Data Science Manager,175100,USD,175100,US,WFO,US,Medium
+638,2022,Expert,Full-time,Data Engineer,210000,USD,210000,US,WFH,US,Medium
+639,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFH,US,Medium
+640,2022,Junior,Full-time,Data Analyst,55000,USD,55000,US,WFH,US,Startup
+641,2022,Intermediate,Full-time,Data Analyst,130000,USD,130000,US,WFH,US,Medium
+642,2022,Expert,Full-time,Applied Machine Learning Scientist,73400,EUR,77280,FR,WFH,GB,Big Enterprise
+643,2022,Junior,Full-time,Data Scientist,49500,EUR,52117,BE,Hybrid,BE,Startup
+644,2022,Intermediate,Freelance,Applied Machine Learning Scientist,2400000,INR,30787,IN,WFH,IN,Startup
+645,2022,Expert,Full-time,Data Engineer,206699,USD,206699,US,WFO,US,Medium
+646,2022,Expert,Full-time,Data Engineer,99100,USD,99100,US,WFO,US,Medium
+647,2022,Intermediate,Full-time,Analytics Engineer,200000,USD,200000,US,WFO,US,Medium
+648,2022,Intermediate,Full-time,Analytics Engineer,54000,USD,54000,US,WFO,US,Medium
+649,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFO,US,Medium
+650,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFO,US,Medium
+651,2022,Expert,Full-time,Data Architect,250000,USD,250000,US,WFO,US,Medium
+652,2022,Expert,Full-time,Data Architect,63000,USD,63000,US,WFO,US,Medium
+653,2022,Expert,Full-time,Data Engineer,250000,USD,250000,US,WFO,US,Medium
+654,2022,Expert,Full-time,Data Engineer,63000,USD,63000,US,WFO,US,Medium
+655,2022,Junior,Full-time,Analytics Engineer,130000,USD,130000,US,Hybrid,US,Big Enterprise
+656,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFO,US,Big Enterprise
+657,2022,Expert,Full-time,Data Engineer,80000,USD,80000,US,WFO,US,Big Enterprise
+658,2022,Expert,Full-time,Data Scientist,160000,USD,160000,US,WFO,US,Big Enterprise
+659,2022,Expert,Full-time,Data Scientist,100000,USD,100000,US,WFO,US,Big Enterprise
+660,2022,Expert,Full-time,Data Specialist,221300,USD,221300,US,WFH,US,Big Enterprise
+661,2022,Expert,Full-time,Data Specialist,148700,USD,148700,US,WFH,US,Big Enterprise
+662,2022,Junior,Full-time,Machine Learning Engineer,30000,USD,30000,GB,WFH,GB,Big Enterprise
+663,2022,Junior,Full-time,Data Analyst,27000,EUR,28427,FR,Hybrid,FR,Medium
+664,2022,Intermediate,Full-time,Data Engineer,74000,GBP,91652,GB,WFO,GB,Medium
+665,2022,Intermediate,Full-time,Data Engineer,50000,GBP,61927,GB,WFO,GB,Medium
+666,2022,Intermediate,Full-time,Data Scientist,58000,EUR,61066,DE,WFH,DE,Startup
+667,2022,Expert,Full-time,Data Science Manager,249260,USD,249260,US,WFO,US,Medium
+668,2022,Expert,Full-time,Data Science Manager,185400,USD,185400,US,WFO,US,Medium
+669,2022,Expert,Full-time,Data Engineer,170000,USD,170000,US,WFH,US,Medium
+670,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFH,US,Medium
+671,2022,Intermediate,Full-time,Data Scientist,65000,GBP,80505,GB,Hybrid,GB,Medium
+672,2022,Expert,Full-time,Data Analyst,128875,USD,128875,US,WFH,US,Medium
+673,2022,Expert,Full-time,Data Analyst,93700,USD,93700,US,WFH,US,Medium
+674,2022,Expert,Full-time,Machine Learning Engineer,180000,USD,180000,US,WFH,US,Medium
+675,2022,Expert,Full-time,Machine Learning Engineer,100000,USD,100000,US,WFH,US,Medium
+676,2022,Expert,Full-time,Data Analyst,136260,USD,136260,US,WFH,US,Medium
+677,2022,Expert,Full-time,Data Analyst,109280,USD,109280,US,WFH,US,Medium
+678,2022,Expert,Full-time,Data Scientist,160000,USD,160000,US,WFH,US,Big Enterprise
+679,2022,Expert,Full-time,Data Scientist,92000,USD,92000,US,WFH,US,Big Enterprise
+680,2022,Expert,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Medium
+681,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+682,2022,Intermediate,Full-time,Data Engineer,110000,GBP,136240,GB,WFO,GB,Medium
+683,2022,Intermediate,Full-time,Data Engineer,85000,GBP,105276,GB,WFO,GB,Medium
+684,2022,Expert,Full-time,Data Analyst,117000,USD,117000,US,WFH,US,Medium
+685,2022,Expert,Full-time,Data Analyst,99450,USD,99450,US,WFH,US,Medium
+686,2022,Junior,Full-time,AI Scientist,240000,INR,3078,IN,WFO,IN,Startup
+687,2022,Junior,Full-time,Data Engineer,129000,USD,129000,US,WFH,US,Big Enterprise
+688,2022,Junior,Full-time,Data Engineer,86000,USD,86000,US,WFH,US,Big Enterprise
+689,2020,Junior,Full-time,Data Engineer,1000000,INR,13493,IN,WFH,IN,Big Enterprise
+690,2020,Junior,Full-time,Data Engineer,1000000,INR,13493,IN,WFH,IN,Big Enterprise
+691,2022,Expert,Full-time,Data Scientist,160000,USD,160000,US,WFO,US,Big Enterprise
+692,2022,Expert,Full-time,Data Scientist,119300,USD,119300,US,WFO,US,Big Enterprise
+693,2022,Expert,Full-time,Business Data Analyst,100000,USD,100000,US,WFH,US,Big Enterprise
+694,2022,Intermediate,Full-time,Data Scientist,25000,USD,25000,TR,Hybrid,TR,Medium
+695,2022,Intermediate,Full-time,Data Analyst,90000,SGD,65161,SG,Hybrid,SG,Medium
+696,2022,Intermediate,Full-time,AI Scientist,200000,USD,200000,US,WFH,US,Medium
+697,2022,Junior,Full-time,Machine Learning Developer,180000,USD,180000,US,WFH,US,Big Enterprise
+698,2022,Intermediate,Full-time,Data Scientist,153000,USD,153000,US,WFH,US,Big Enterprise
+699,2022,Expert,Full-time,Data Engineer,210000,USD,210000,US,WFH,US,Medium
+700,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFH,US,Medium
+701,2022,Expert,Full-time,Data Analyst,150075,USD,150075,US,WFH,US,Medium
+702,2022,Expert,Full-time,Data Analyst,110925,USD,110925,US,WFH,US,Medium
+703,2022,Intermediate,Full-time,Machine Learning Scientist,22800,USD,22800,EG,WFH,EG,Medium
+704,2022,Expert,Full-time,Data Scientist,160000,USD,160000,US,WFH,US,Big Enterprise
+705,2022,Expert,Full-time,Data Scientist,92000,USD,92000,US,WFH,US,Big Enterprise
+706,2022,Expert,Full-time,Machine Learning Engineer,202900,USD,202900,US,WFH,US,Big Enterprise
+707,2022,Expert,Full-time,Machine Learning Engineer,131300,USD,131300,US,WFH,US,Big Enterprise
+708,2020,Junior,Full-time,Data Analyst,20000,EUR,22809,PT,WFH,PT,Medium
+709,2022,Junior,Full-time,Data Analyst,15000,USD,15000,ID,WFO,ID,Big Enterprise
+710,2022,Expert,Full-time,Data Engineer,175000,USD,175000,US,WFH,US,Medium
+711,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFH,US,Medium
+712,2022,Expert,Full-time,Data Science Manager,193000,AUD,134768,AU,WFH,AU,Big Enterprise
+713,2022,Junior,Full-time,Machine Learning Engineer,83000,USD,83000,US,WFO,US,Big Enterprise
+714,2022,Intermediate,Full-time,Data Engineer,75000,GBP,92891,GB,WFH,GB,Medium
+715,2022,Intermediate,Full-time,Data Engineer,55000,GBP,68120,GB,WFH,GB,Medium
+716,2022,Expert,Full-time,Data Scientist,186000,USD,186000,US,WFO,US,Medium
+717,2022,Expert,Full-time,Data Scientist,148800,USD,148800,US,WFO,US,Medium
+718,2022,Expert,Full-time,Data Analyst,112900,USD,112900,US,WFO,US,Medium
+719,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFO,US,Medium
+720,2022,Expert,Full-time,ML Engineer,240000,USD,240000,US,WFO,US,Medium
+721,2022,Expert,Full-time,ML Engineer,160000,USD,160000,US,WFO,US,Medium
+722,2022,Expert,Full-time,Data Science Manager,300000,USD,300000,US,WFH,US,Medium
+723,2022,Expert,Full-time,Data Science Manager,200000,USD,200000,US,WFH,US,Medium
+724,2022,Intermediate,Full-time,Data Engineer,62500,EUR,65804,DE,Hybrid,DE,Startup
+725,2022,Intermediate,Full-time,AI Scientist,200000,USD,200000,IN,WFH,US,Big Enterprise
+726,2022,Intermediate,Full-time,Machine Learning Engineer,95000,GBP,117662,GB,WFO,GB,Medium
+727,2022,Intermediate,Full-time,Machine Learning Engineer,75000,GBP,92891,GB,WFO,GB,Medium
+728,2022,Intermediate,Full-time,AI Scientist,120000,USD,120000,US,WFO,US,Medium
+729,2022,Expert,Full-time,Data Analyst,112900,USD,112900,US,WFH,US,Medium
+730,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFH,US,Medium
+731,2022,Expert,Full-time,Data Analytics Manager,145000,USD,145000,US,WFH,US,Medium
+732,2022,Expert,Full-time,Data Analytics Manager,105400,USD,105400,US,WFH,US,Medium
+733,2020,Junior,Full-time,Data Scientist,43200,EUR,49268,DE,WFO,DE,Startup
+734,2022,Intermediate,Full-time,Data Engineer,90000,GBP,111469,GB,WFO,GB,Medium
+735,2022,Intermediate,Full-time,Data Engineer,75000,GBP,92891,GB,WFO,GB,Medium
+736,2022,Expert,Full-time,Data Scientist,215300,USD,215300,US,WFH,US,Big Enterprise
+737,2022,Expert,Full-time,Data Scientist,158200,USD,158200,US,WFH,US,Big Enterprise
+738,2022,Expert,Full-time,Data Engineer,209100,USD,209100,US,WFH,US,Big Enterprise
+739,2022,Expert,Full-time,Data Engineer,154600,USD,154600,US,WFH,US,Big Enterprise
+740,2022,Expert,Full-time,Data Analyst,115934,USD,115934,US,WFO,US,Medium
+741,2022,Expert,Full-time,Data Analyst,81666,USD,81666,US,WFO,US,Medium
+742,2022,Expert,Full-time,Data Engineer,175000,USD,175000,US,WFH,US,Medium
+743,2022,Expert,Full-time,Data Engineer,155000,USD,155000,US,WFH,US,Medium
+744,2022,Intermediate,Full-time,Machine Learning Engineer,80000,EUR,84229,FR,WFH,DE,Medium
+745,2022,Expert,Full-time,Data Analyst,164000,USD,164000,US,WFO,US,Medium
+746,2022,Expert,Full-time,Data Analyst,132000,USD,132000,US,WFO,US,Medium
+747,2022,Expert,Full-time,Data Scientist,170000,USD,170000,US,WFH,US,Medium
+748,2022,Expert,Full-time,Data Scientist,123000,USD,123000,US,WFH,US,Medium
+749,2022,Expert,Full-time,Machine Learning Engineer,189650,USD,189650,US,WFO,US,Medium
+750,2022,Expert,Full-time,Machine Learning Engineer,164996,USD,164996,US,WFO,US,Medium
+751,2022,Intermediate,Full-time,ETL Developer,50000,EUR,52643,GR,WFO,GR,Medium
+752,2022,Intermediate,Full-time,ETL Developer,50000,EUR,52643,GR,WFO,GR,Medium
+753,2022,Director,Full-time,Lead Data Engineer,150000,CAD,116073,CA,WFH,CA,Startup
+754,2022,Expert,Full-time,Data Engineer,165400,USD,165400,US,WFH,US,Medium
+755,2022,Expert,Full-time,Data Engineer,132320,USD,132320,US,WFH,US,Medium
+756,2022,Expert,Full-time,Data Architect,208775,USD,208775,US,WFH,US,Medium
+757,2022,Expert,Full-time,Data Architect,147800,USD,147800,US,WFH,US,Medium
+758,2022,Expert,Full-time,Data Engineer,136994,USD,136994,US,WFH,US,Medium
+759,2022,Expert,Full-time,Data Engineer,101570,USD,101570,US,WFH,US,Medium
+760,2022,Expert,Full-time,Data Analyst,128875,USD,128875,US,WFH,US,Medium
+761,2022,Expert,Full-time,Data Analyst,93700,USD,93700,US,WFH,US,Medium
+762,2022,Director,Full-time,Head of Machine Learning,6000000,INR,76967,IN,Hybrid,IN,Big Enterprise
+763,2022,Junior,Full-time,Machine Learning Engineer,28500,GBP,35298,GB,WFH,GB,Big Enterprise
+764,2022,Expert,Full-time,Data Engineer,183600,USD,183600,US,WFH,US,Big Enterprise
+765,2022,Expert,Full-time,Data Engineer,100800,USD,100800,US,WFH,US,Big Enterprise
+766,2022,Intermediate,Full-time,Data Analyst,40000,GBP,49542,GB,WFH,GB,Medium
+767,2022,Intermediate,Full-time,Data Analyst,30000,GBP,37156,GB,WFH,GB,Medium
+768,2022,Intermediate,Full-time,Data Analyst,40000,EUR,42114,ES,WFH,ES,Medium
+769,2022,Intermediate,Full-time,Data Analyst,30000,EUR,31586,ES,WFH,ES,Medium
+770,2022,Intermediate,Full-time,Data Engineer,80000,EUR,84229,ES,WFH,ES,Medium
+771,2022,Intermediate,Full-time,Data Engineer,70000,EUR,73701,ES,WFH,ES,Medium
+772,2022,Intermediate,Full-time,Data Engineer,80000,GBP,99084,GB,WFH,GB,Medium
+773,2022,Intermediate,Full-time,Data Engineer,70000,GBP,86698,GB,WFH,GB,Medium
+774,2022,Intermediate,Full-time,Data Engineer,80000,EUR,84229,GR,WFH,GR,Medium
+775,2022,Intermediate,Full-time,Data Engineer,70000,EUR,73701,GR,WFH,GR,Medium
+776,2022,Expert,Full-time,Machine Learning Engineer,189650,USD,189650,US,WFO,US,Medium
+777,2022,Expert,Full-time,Machine Learning Engineer,164996,USD,164996,US,WFO,US,Medium
+778,2022,Intermediate,Full-time,Data Analyst,40000,EUR,42114,GR,WFH,GR,Medium
+779,2022,Intermediate,Full-time,Data Analyst,30000,EUR,31586,GR,WFH,GR,Medium
+780,2022,Intermediate,Full-time,Data Engineer,75000,GBP,92891,GB,WFH,GB,Medium
+781,2022,Intermediate,Full-time,Data Engineer,60000,GBP,74313,GB,WFH,GB,Medium
+782,2022,Expert,Full-time,Data Scientist,215300,USD,215300,US,WFO,US,Big Enterprise
+783,2022,Expert,Full-time,Data Scientist,140400,USD,140400,US,WFO,US,Big Enterprise
+784,2022,Intermediate,Full-time,Data Engineer,60000,EUR,63172,ES,WFH,ES,Medium
+785,2022,Intermediate,Full-time,Data Engineer,45000,EUR,47379,ES,WFH,ES,Medium
+786,2022,Expert,Full-time,Data Scientist,260000,USD,260000,US,WFH,US,Medium
+787,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFH,US,Medium
+788,2022,Intermediate,Full-time,Data Scientist,55000,GBP,68120,GB,WFO,GB,Medium
+789,2022,Intermediate,Full-time,Data Scientist,35000,GBP,43349,GB,WFO,GB,Medium
+790,2022,Intermediate,Full-time,Data Engineer,60000,EUR,63172,GR,WFH,GR,Medium
+791,2022,Intermediate,Full-time,Data Engineer,45000,EUR,47379,GR,WFH,GR,Medium
+792,2022,Intermediate,Full-time,Data Engineer,60000,GBP,74313,GB,WFH,GB,Medium
+793,2022,Intermediate,Full-time,Data Engineer,45000,GBP,55734,GB,WFH,GB,Medium
+794,2021,Intermediate,Full-time,Machine Learning Engineer,43200,EUR,51064,IT,Hybrid,IT,Big Enterprise
+795,2022,Expert,Full-time,Data Science Engineer,60000,USD,60000,AR,WFH,MX,Big Enterprise
+796,2022,Intermediate,Full-time,Data Engineer,82900,USD,82900,US,WFO,US,Medium
+797,2022,Intermediate,Full-time,Data Engineer,63900,USD,63900,US,WFO,US,Medium
+798,2022,Intermediate,Full-time,Machine Learning Scientist,160000,USD,160000,US,WFH,US,Big Enterprise
+799,2022,Intermediate,Full-time,Machine Learning Scientist,112300,USD,112300,US,WFH,US,Big Enterprise
+800,2022,Intermediate,Full-time,Data Science Manager,241000,USD,241000,US,WFH,US,Medium
+801,2022,Intermediate,Full-time,Data Science Manager,159000,USD,159000,US,WFH,US,Medium
+802,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFO,US,Medium
+803,2022,Expert,Full-time,Data Scientist,80000,USD,80000,US,WFO,US,Medium
+804,2022,Intermediate,Full-time,Data Analyst,58000,USD,58000,US,WFO,US,Startup
+805,2022,Intermediate,Full-time,Data Analyst,58000,USD,58000,US,WFO,US,Startup
+806,2022,Expert,Full-time,Data Engineer,136000,USD,136000,US,WFO,US,Medium
+807,2022,Expert,Full-time,Data Engineer,108800,USD,108800,US,WFO,US,Medium
+808,2022,Director,Full-time,Data Engineer,242000,USD,242000,US,WFH,US,Medium
+809,2022,Director,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Medium
+810,2022,Intermediate,Full-time,Data Scientist,50000,GBP,61927,GB,WFO,GB,Medium
+811,2022,Intermediate,Full-time,Data Scientist,30000,GBP,37156,GB,WFO,GB,Medium
+812,2022,Intermediate,Full-time,Data Engineer,60000,GBP,74313,GB,WFO,GB,Medium
+813,2022,Intermediate,Full-time,Data Engineer,40000,GBP,49542,GB,WFO,GB,Medium
+814,2022,Expert,Full-time,Data Scientist,165220,USD,165220,US,WFH,US,Medium
+815,2022,Expert,Full-time,Data Scientist,120160,USD,120160,US,WFH,US,Medium
+816,2022,Expert,Full-time,Data Analyst,124190,USD,124190,US,WFH,US,Medium
+817,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFH,US,Medium
+818,2022,Expert,Full-time,Data Engineer,181940,USD,181940,US,WFO,US,Medium
+819,2022,Expert,Full-time,Data Engineer,132320,USD,132320,US,WFO,US,Medium
+820,2022,Expert,Full-time,Data Engineer,220110,USD,220110,US,WFO,US,Medium
+821,2022,Expert,Full-time,Data Engineer,160080,USD,160080,US,WFO,US,Medium
+822,2022,Expert,Full-time,Data Scientist,180000,USD,180000,US,WFO,US,Big Enterprise
+823,2022,Expert,Full-time,Data Scientist,120000,USD,120000,US,WFO,US,Big Enterprise
+824,2022,Intermediate,Full-time,Data Analyst,126500,USD,126500,US,WFO,US,Medium
+825,2022,Intermediate,Full-time,Data Analyst,106260,USD,106260,US,WFO,US,Medium
+826,2022,Expert,Full-time,Data Analyst,116000,USD,116000,US,WFO,US,Medium
+827,2022,Expert,Full-time,Data Analyst,99000,USD,99000,US,WFO,US,Medium
+828,2022,Expert,Full-time,Data Analyst,155000,USD,155000,US,WFH,US,Medium
+829,2022,Expert,Full-time,Data Analyst,120600,USD,120600,US,WFH,US,Medium
+830,2022,Intermediate,Full-time,Data Scientist,130000,USD,130000,US,WFO,US,Medium
+831,2022,Intermediate,Full-time,Data Scientist,90000,USD,90000,US,WFO,US,Medium
+832,2022,Intermediate,Full-time,Data Engineer,170000,USD,170000,US,WFH,US,Medium
+833,2022,Intermediate,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Medium
+834,2022,Expert,Full-time,Data Analyst,102100,USD,102100,US,WFH,US,Medium
+835,2022,Expert,Full-time,Data Analyst,84900,USD,84900,US,WFH,US,Medium
+836,2022,Expert,Full-time,Data Scientist,136620,USD,136620,US,WFH,US,Medium
+837,2022,Expert,Full-time,Data Scientist,99360,USD,99360,US,WFH,US,Medium
+838,2022,Expert,Full-time,Data Scientist,90000,GBP,111469,GB,WFO,GB,Medium
+839,2022,Expert,Full-time,Data Scientist,80000,GBP,99084,GB,WFO,GB,Medium
+840,2022,Expert,Full-time,Data Scientist,146000,USD,146000,US,WFH,US,Medium
+841,2022,Expert,Full-time,Data Scientist,123000,USD,123000,US,WFH,US,Medium
+842,2022,Junior,Full-time,Data Engineer,40000,GBP,49542,GB,WFH,GB,Medium
+843,2022,Junior,Full-time,Data Engineer,35000,GBP,43349,GB,WFH,GB,Medium
+844,2022,Director,Full-time,Data Analyst,130000,USD,130000,US,WFH,US,Medium
+845,2022,Director,Full-time,Data Analyst,110000,USD,110000,US,WFH,US,Medium
+846,2022,Expert,Full-time,Data Analyst,170000,USD,170000,US,WFH,US,Medium
+847,2022,Expert,Full-time,Data Analyst,135000,USD,135000,US,WFH,US,Medium
+848,2022,Expert,Full-time,Data Science Manager,161342,USD,161342,US,WFH,US,Medium
+849,2022,Expert,Full-time,Data Science Manager,137141,USD,137141,US,WFH,US,Medium
+850,2022,Expert,Full-time,Data Scientist,167000,USD,167000,US,WFH,US,Medium
+851,2022,Expert,Full-time,Data Scientist,123000,USD,123000,US,WFH,US,Medium
+852,2022,Expert,Full-time,Data Engineer,60000,GBP,74313,GB,WFO,GB,Medium
+853,2022,Expert,Full-time,Data Engineer,50000,GBP,61927,GB,WFO,GB,Medium
+854,2022,Expert,Full-time,Data Scientist,211500,USD,211500,US,WFH,US,Medium
+855,2022,Expert,Full-time,Data Scientist,138600,USD,138600,US,WFH,US,Medium
+856,2022,Expert,Full-time,Data Architect,192400,USD,192400,CA,WFH,CA,Medium
+857,2022,Expert,Full-time,Data Architect,90700,USD,90700,CA,WFH,CA,Medium
+858,2022,Expert,Full-time,Data Analyst,130000,USD,130000,CA,WFH,CA,Medium
+859,2022,Expert,Full-time,Data Analyst,61300,USD,61300,CA,WFH,CA,Medium
+860,2022,Expert,Full-time,Data Analyst,130000,USD,130000,CA,WFH,CA,Medium
+861,2022,Expert,Full-time,Data Analyst,61300,USD,61300,CA,WFH,CA,Medium
+862,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFO,US,Big Enterprise
+863,2022,Expert,Full-time,Data Engineer,113000,USD,113000,US,WFO,US,Big Enterprise
+864,2022,Expert,Full-time,Data Scientist,150000,USD,150000,US,WFO,US,Medium
+865,2022,Expert,Full-time,Data Scientist,95550,USD,95550,US,WFO,US,Medium
+866,2022,Intermediate,Full-time,Data Analyst,167000,USD,167000,US,WFH,US,Medium
+867,2022,Intermediate,Full-time,Data Analyst,115500,USD,115500,US,WFH,US,Medium
+868,2022,Expert,Full-time,Data Analyst,112900,USD,112900,US,WFH,US,Medium
+869,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFH,US,Medium
+870,2022,Expert,Full-time,Data Analyst,112900,USD,112900,US,WFH,US,Medium
+871,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFH,US,Medium
+872,2022,Expert,Full-time,Data Engineer,165400,USD,165400,US,WFH,US,Medium
+873,2022,Expert,Full-time,Data Engineer,132320,USD,132320,US,WFH,US,Medium
+874,2022,Expert,Full-time,Data Engineer,243900,USD,243900,US,WFH,US,Medium
+875,2022,Expert,Full-time,Data Engineer,156600,USD,156600,US,WFH,US,Medium
+876,2022,Expert,Full-time,Data Analyst,136600,USD,136600,US,WFH,US,Medium
+877,2022,Expert,Full-time,Data Analyst,109280,USD,109280,US,WFH,US,Medium
+878,2022,Expert,Full-time,Data Engineer,128875,USD,128875,US,WFH,US,Medium
+879,2022,Expert,Full-time,Data Engineer,93700,USD,93700,US,WFH,US,Medium
+880,2022,Director,Full-time,Head of Data Science,224000,USD,224000,US,WFH,US,Medium
+881,2022,Director,Full-time,Head of Data Science,167875,USD,167875,US,WFH,US,Medium
+882,2022,Director,Full-time,Analytics Engineer,175000,USD,175000,US,WFH,US,Medium
+883,2022,Director,Full-time,Analytics Engineer,135000,USD,135000,US,WFH,US,Medium
+884,2022,Expert,Full-time,Data Engineer,209100,USD,209100,US,WFH,US,Big Enterprise
+885,2022,Expert,Full-time,Data Engineer,154600,USD,154600,US,WFH,US,Big Enterprise
+886,2022,Expert,Full-time,Data Engineer,180000,USD,180000,US,WFH,US,Medium
+887,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+888,2022,Expert,Full-time,Data Scientist,205300,USD,205300,US,WFO,US,Big Enterprise
+889,2022,Expert,Full-time,Data Scientist,140400,USD,140400,US,WFO,US,Big Enterprise
+890,2022,Expert,Full-time,Data Scientist,176000,USD,176000,US,WFH,US,Medium
+891,2022,Expert,Full-time,Data Scientist,144000,USD,144000,US,WFH,US,Medium
+892,2022,Expert,Full-time,Data Engineer,200100,USD,200100,US,WFH,US,Medium
+893,2022,Expert,Full-time,Data Engineer,160000,USD,160000,US,WFH,US,Medium
+894,2022,Expert,Full-time,Data Engineer,70500,USD,70500,US,WFO,US,Medium
+895,2022,Expert,Full-time,Data Engineer,54000,USD,54000,US,WFO,US,Medium
+896,2022,Expert,Full-time,Data Scientist,205300,USD,205300,US,WFO,US,Medium
+897,2022,Expert,Full-time,Data Scientist,140400,USD,140400,US,WFO,US,Medium
+898,2022,Expert,Full-time,Analytics Engineer,205300,USD,205300,US,WFO,US,Medium
+899,2022,Expert,Full-time,Analytics Engineer,184700,USD,184700,US,WFO,US,Medium
+900,2022,Expert,Full-time,Data Engineer,175100,USD,175100,US,WFH,US,Medium
+901,2022,Expert,Full-time,Data Engineer,140250,USD,140250,US,WFH,US,Medium
+902,2022,Expert,Full-time,Data Analyst,116150,USD,116150,US,WFH,US,Medium
+903,2022,Expert,Full-time,Data Analyst,99050,USD,99050,US,WFH,US,Medium
+904,2022,Expert,Full-time,Data Engineer,145000,USD,145000,US,WFH,US,Medium
+905,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFH,US,Medium
+906,2022,Expert,Full-time,Data Analyst,112900,USD,112900,US,WFH,US,Medium
+907,2022,Expert,Full-time,Data Analyst,90320,USD,90320,US,WFH,US,Medium
+908,2022,Intermediate,Full-time,Data Analyst,85000,USD,85000,CA,WFO,CA,Medium
+909,2022,Intermediate,Full-time,Data Analyst,75000,USD,75000,CA,WFO,CA,Medium
+910,2022,Expert,Full-time,Machine Learning Engineer,214000,USD,214000,US,WFH,US,Medium
+911,2022,Expert,Full-time,Machine Learning Engineer,192600,USD,192600,US,WFH,US,Medium
+912,2022,Expert,Full-time,Data Architect,266400,USD,266400,US,WFH,US,Medium
+913,2022,Expert,Full-time,Data Architect,213120,USD,213120,US,WFH,US,Medium
+914,2022,Expert,Full-time,Data Engineer,155000,USD,155000,US,WFH,US,Medium
+915,2022,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFH,US,Medium
+916,2022,Intermediate,Full-time,Data Scientist,141300,USD,141300,US,WFO,US,Medium
+917,2022,Intermediate,Full-time,Data Scientist,102100,USD,102100,US,WFO,US,Medium
+918,2022,Expert,Full-time,Data Analyst,115934,USD,115934,US,WFH,US,Medium
+919,2022,Expert,Full-time,Data Analyst,81666,USD,81666,US,WFH,US,Medium
+920,2022,Intermediate,Full-time,Data Engineer,206699,USD,206699,US,WFO,US,Medium
+921,2022,Intermediate,Full-time,Data Engineer,99100,USD,99100,US,WFO,US,Medium
+922,2022,Expert,Full-time,Data Engineer,130000,USD,130000,US,WFH,US,Medium
+923,2022,Expert,Full-time,Data Engineer,110500,USD,110500,US,WFH,US,Medium
+924,2022,Intermediate,Full-time,Data Analyst,50000,GBP,61927,GB,WFO,GB,Medium
+925,2022,Intermediate,Full-time,Data Analyst,35000,GBP,43349,GB,WFO,GB,Medium
+926,2022,Expert,Full-time,Data Analyst,80000,USD,80000,US,WFH,US,Medium
+927,2022,Expert,Full-time,Data Analyst,60000,USD,60000,US,WFH,US,Medium
+928,2022,Expert,Full-time,Data Architect,192564,USD,192564,US,WFH,US,Medium
+929,2022,Expert,Full-time,Data Architect,144854,USD,144854,US,WFH,US,Medium
+930,2022,Expert,Full-time,Data Scientist,230000,USD,230000,US,WFH,US,Medium
+931,2022,Expert,Full-time,Data Scientist,150000,USD,150000,US,WFH,US,Medium
+932,2022,Expert,Full-time,Data Analytics Manager,150260,USD,150260,US,WFH,US,Medium
+933,2022,Expert,Full-time,Data Analytics Manager,109280,USD,109280,US,WFH,US,Medium
+934,2022,Expert,Full-time,Data Analyst,170000,USD,170000,US,WFH,US,Medium
+935,2022,Expert,Full-time,Data Analyst,150000,USD,150000,US,WFH,US,Medium
+936,2022,Intermediate,Full-time,Data Scientist,160000,USD,160000,US,WFH,US,Medium
+937,2022,Intermediate,Full-time,Data Scientist,130000,USD,130000,US,WFH,US,Medium
+938,2022,Junior,Full-time,Data Analyst,67000,USD,67000,CA,WFO,CA,Medium
+939,2022,Junior,Full-time,Data Analyst,52000,USD,52000,CA,WFO,CA,Medium
+940,2022,Expert,Full-time,Data Engineer,154000,USD,154000,US,WFH,US,Medium
+941,2022,Expert,Full-time,Data Engineer,126000,USD,126000,US,WFH,US,Medium
+942,2022,Expert,Full-time,Data Analyst,129000,USD,129000,US,WFO,US,Medium
+943,2022,Expert,Full-time,Data Analyst,99000,USD,99000,US,WFO,US,Medium
+944,2022,Expert,Full-time,Data Scientist,210000,USD,210000,US,WFH,US,Medium
+945,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+946,2022,Expert,Full-time,Data Scientist,210000,USD,210000,US,WFH,US,Medium
+947,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+948,2022,Expert,Full-time,Data Scientist,210000,USD,210000,US,WFH,US,Medium
+949,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+950,2022,Expert,Full-time,Data Analyst,100000,USD,100000,US,WFH,US,Medium
+951,2022,Expert,Full-time,Data Analyst,69000,USD,69000,US,WFH,US,Medium
+952,2022,Expert,Full-time,Data Scientist,210000,USD,210000,US,WFH,US,Medium
+953,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+954,2022,Expert,Full-time,Data Analyst,150075,USD,150075,US,WFH,US,Medium
+955,2022,Expert,Full-time,Data Analyst,110925,USD,110925,US,WFH,US,Medium
+956,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFH,US,Medium
+957,2022,Expert,Full-time,Data Engineer,25000,USD,25000,US,WFH,US,Medium
+958,2022,Expert,Full-time,Data Analyst,126500,USD,126500,US,WFH,US,Medium
+959,2022,Expert,Full-time,Data Analyst,106260,USD,106260,US,WFH,US,Medium
+960,2022,Expert,Full-time,Data Engineer,220110,USD,220110,US,WFH,US,Medium
+961,2022,Expert,Full-time,Data Engineer,160080,USD,160080,US,WFH,US,Medium
+962,2022,Expert,Full-time,Data Analyst,105000,USD,105000,US,WFH,US,Medium
+963,2022,Expert,Full-time,Data Analyst,100000,USD,100000,US,WFH,US,Medium
+964,2022,Expert,Full-time,Data Analyst,170000,USD,170000,US,WFH,US,Medium
+965,2022,Expert,Full-time,Data Analyst,135000,USD,135000,US,WFH,US,Medium
+966,2022,Expert,Full-time,Data Scientist,230000,USD,230000,US,WFH,US,Medium
+967,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+968,2022,Intermediate,Full-time,Data Analyst,135000,USD,135000,US,WFH,US,Medium
+969,2022,Intermediate,Full-time,Data Analyst,50000,USD,50000,US,WFH,US,Medium
+970,2022,Expert,Full-time,Data Scientist,220000,USD,220000,US,WFH,US,Medium
+971,2022,Expert,Full-time,Data Scientist,140000,USD,140000,US,WFH,US,Medium
+972,2022,Intermediate,Full-time,Data Scientist,140000,GBP,173397,GB,WFO,GB,Medium
+973,2022,Intermediate,Full-time,Data Scientist,70000,GBP,86698,GB,WFO,GB,Medium
+974,2022,Expert,Full-time,Machine Learning Engineer,220000,USD,220000,US,WFH,US,Medium
+975,2022,Expert,Full-time,Machine Learning Engineer,120000,USD,120000,US,WFH,US,Medium
+976,2022,Intermediate,Full-time,Data Scientist,200000,USD,200000,US,WFH,US,Medium
+977,2022,Intermediate,Full-time,Data Scientist,120000,USD,120000,US,WFH,US,Medium
+978,2022,Expert,Full-time,Machine Learning Engineer,120000,USD,120000,AE,WFH,AE,Startup
+979,2022,Expert,Full-time,Machine Learning Engineer,65000,USD,65000,AE,WFH,AE,Startup
+980,2022,Director,Full-time,Data Engineer,324000,USD,324000,US,WFH,US,Medium
+981,2022,Director,Full-time,Data Engineer,216000,USD,216000,US,WFH,US,Medium
+982,2022,Expert,Full-time,Data Engineer,210000,USD,210000,US,WFH,US,Medium
+983,2022,Expert,Full-time,Data Engineer,100000,USD,100000,US,WFH,US,Medium
+984,2022,Expert,Full-time,Data Scientist,185100,USD,185100,US,WFH,US,Medium
+985,2022,Expert,Full-time,Data Scientist,104890,USD,104890,US,WFH,US,Medium
+986,2022,Expert,Full-time,Data Engineer,105000,USD,105000,US,WFH,US,Medium
+987,2022,Expert,Full-time,Data Engineer,80000,USD,80000,US,WFH,US,Medium
+988,2022,Intermediate,Full-time,Machine Learning Developer,100000,CAD,77382,CA,WFH,CA,Medium
+989,2020,Expert,Full-time,Machine Learning Manager,157000,CAD,117104,CA,Hybrid,CA,Big Enterprise
+990,2022,Director,Full-time,Director of Data Science,250000,CAD,193455,CA,Hybrid,CA,Big Enterprise
+991,2022,Intermediate,Full-time,Machine Learning Engineer,120000,USD,120000,US,WFH,US,Startup
+992,2022,Intermediate,Full-time,NLP Engineer,240000,CNY,35988,US,Hybrid,US,Big Enterprise
+993,2022,Intermediate,Full-time,Business Data Analyst,1400000,INR,17959,IN,WFH,IN,Medium
+994,2022,Intermediate,Full-time,Data Scientist,2400000,INR,30787,IN,WFH,IN,Big Enterprise
+995,2022,Intermediate,Full-time,Machine Learning Infrastructure Engineer,53000,EUR,55802,PT,Hybrid,PT,Big Enterprise
+996,2022,Intermediate,Part-time,Data Engineer,50000,EUR,52643,DE,Hybrid,DE,Big Enterprise
+997,2022,Junior,Full-time,Data Scientist,1400000,INR,17959,IN,WFH,IN,Medium
+998,2022,Intermediate,Full-time,Applied Machine Learning Scientist,75000,USD,75000,BO,WFH,US,Big Enterprise
+999,2022,Intermediate,Full-time,Applied Data Scientist,157000,USD,157000,US,WFH,US,Big Enterprise
+1000,2022,Intermediate,Full-time,Business Data Analyst,90000,CAD,69643,CA,Hybrid,CA,Big Enterprise
+1001,2022,Junior,Full-time,Data Engineer,65000,USD,65000,US,WFH,US,Startup
+1002,2022,Expert,Full-time,Machine Learning Engineer,65000,EUR,68436,IE,WFH,IE,Startup
+1003,2021,Intermediate,Full-time,Data Scientist,109000,USD,109000,US,Hybrid,US,Big Enterprise
+1004,2022,Intermediate,Full-time,Data Scientist,88000,CAD,68096,CA,WFH,CA,Medium
+1005,2022,Junior,Full-time,Computer Vision Engineer,10000,USD,10000,PT,WFH,LU,Medium
+1006,2022,Intermediate,Full-time,Data Analyst,20000,USD,20000,GR,WFH,GR,Startup
+1007,2021,Expert,Full-time,Head of Data,87000,EUR,102839,SI,WFH,SI,Big Enterprise
+1008,2022,Expert,Full-time,Head of Data,200000,USD,200000,MY,WFH,US,Medium
+1009,2022,Junior,Full-time,Data Scientist,66500,CAD,51459,CA,WFH,CA,Big Enterprise
+1010,2022,Intermediate,Full-time,Data Scientist,78000,USD,78000,US,WFH,US,Medium
+1011,2022,Expert,Full-time,Data Engineer,135000,USD,135000,US,WFH,US,Medium
+1012,2022,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFH,US,Medium
+1013,2022,Intermediate,Full-time,Machine Learning Engineer,121000,AUD,84491,AU,WFH,AU,Big Enterprise
+1014,2022,Junior,Full-time,Data Scientist,40000,USD,40000,JP,WFH,MY,Big Enterprise
+1015,2022,Intermediate,Full-time,Head of Data,30000,EUR,31586,EE,WFH,EE,Startup
+1016,2022,Expert,Full-time,Machine Learning Engineer,57000,EUR,60013,NL,WFH,NL,Big Enterprise
+1017,2020,Junior,Full-time,Data Engineer,48000,EUR,54742,PK,WFH,DE,Big Enterprise
+1018,2022,Expert,Full-time,Research Scientist,85000,EUR,89494,FR,Hybrid,FR,Big Enterprise
+1019,2022,Junior,Full-time,Data Scientist,120000,AUD,83793,AU,Hybrid,AU,Medium
+1020,2022,Expert,Full-time,Data Scientist,165000,USD,165000,US,WFH,US,Medium
+1021,2022,Intermediate,Full-time,Machine Learning Scientist,153000,USD,153000,US,Hybrid,US,Medium
+1022,2022,Expert,Full-time,Data Scientist,100000,USD,100000,BR,WFH,US,Medium
+1023,2022,Expert,Full-time,Machine Learning Developer,100000,CAD,77382,CA,WFH,CA,Medium
+1024,2022,Intermediate,Full-time,Data Scientist,150000,PLN,33681,PL,WFH,PL,Big Enterprise
+1025,2022,Intermediate,Full-time,Principal Data Analyst,75000,USD,75000,CA,WFH,CA,Startup
+1026,2020,Intermediate,Full-time,Product Data Analyst,20000,USD,20000,HN,WFO,HN,Startup
+1027,2022,Junior,Contract,Applied Machine Learning Scientist,29000,EUR,30533,TN,WFH,CZ,Medium
+1028,2021,Intermediate,Full-time,Research Scientist,69999,USD,69999,CZ,Hybrid,CZ,Big Enterprise
+1029,2022,Junior,Full-time,Data Engineer,52800,EUR,55591,PK,WFH,DE,Medium
+1030,2022,Intermediate,Full-time,Research Scientist,59000,EUR,62119,AT,WFO,AT,Big Enterprise
+1031,2022,Expert,Full-time,Data Science Manager,152500,USD,152500,US,WFH,US,Medium
+1032,2022,Junior,Full-time,Research Scientist,120000,USD,120000,US,WFH,US,Big Enterprise
+1033,2022,Intermediate,Full-time,Data Scientist,135000,USD,135000,US,WFH,US,Big Enterprise
+1034,2022,Expert,Full-time,Data Analytics Lead,405000,USD,405000,US,WFH,US,Big Enterprise
+1035,2021,Expert,Full-time,Data Engineering Manager,150000,USD,150000,US,WFO,US,Big Enterprise
+1036,2021,Expert,Full-time,Data Science Manager,240000,USD,240000,US,WFO,US,Big Enterprise
+1037,2021,Intermediate,Full-time,Data Analyst,135000,USD,135000,US,WFH,US,Big Enterprise
+1038,2021,Junior,Full-time,Data Scientist,80000,USD,80000,US,WFH,US,Medium
+1039,2022,Expert,Full-time,Applied Data Scientist,380000,USD,380000,US,WFH,US,Big Enterprise
+1040,2022,Intermediate,Full-time,Data Scientist,115000,CHF,120221,CH,WFO,CH,Big Enterprise
+1041,2022,Expert,Full-time,Applied Data Scientist,177000,USD,177000,US,WFH,US,Big Enterprise
+1042,2022,Intermediate,Full-time,Data Engineer,62000,EUR,65278,FR,WFH,FR,Medium
+1043,2022,Intermediate,Full-time,Data Scientist,48000,USD,48000,RU,WFH,US,Startup
+1044,2022,Junior,Full-time,Data Analytics Engineer,20000,USD,20000,PK,WFO,PK,Medium
+1045,2021,Expert,Full-time,Principal Data Scientist,220000,USD,220000,US,WFO,US,Big Enterprise
+1046,2021,Intermediate,Full-time,ML Engineer,8500000,JPY,77364,JP,Hybrid,JP,Startup
+1047,2021,Intermediate,Full-time,ML Engineer,7000000,JPY,63711,JP,Hybrid,JP,Startup
+1048,2022,Junior,Full-time,Computer Vision Software Engineer,150000,USD,150000,AU,WFH,AU,Startup
+1049,2021,Intermediate,Full-time,Data Analyst,90000,USD,90000,US,WFH,US,Medium
+1050,2022,Intermediate,Freelance,Data Scientist,100000,USD,100000,CA,WFH,US,Medium
+1051,2021,Junior,Full-time,Data Scientist,100000,USD,100000,US,WFO,US,Startup
+1052,2022,Junior,Part-time,Data Scientist,100000,USD,100000,DZ,Hybrid,DZ,Medium
+1053,2022,Expert,Full-time,Research Scientist,144000,USD,144000,US,Hybrid,US,Big Enterprise
+1054,2022,Expert,Full-time,Principal Data Scientist,148000,EUR,155825,DE,WFH,DE,Medium
+1055,2021,Expert,Full-time,Computer Vision Engineer,24000,USD,24000,BR,WFH,BR,Medium
+1056,2021,Intermediate,Full-time,Applied Machine Learning Scientist,38400,USD,38400,VN,WFH,US,Medium
+1057,2022,Junior,Full-time,Financial Data Analyst,100000,USD,100000,US,Hybrid,US,Big Enterprise
+1058,2021,Intermediate,Full-time,Data Scientist,82500,USD,82500,US,WFH,US,Startup
+1059,2021,Junior,Full-time,Data Scientist,42000,EUR,49646,FR,Hybrid,FR,Medium
+1060,2021,Expert,Full-time,Lead Data Scientist,3000000,INR,40570,IN,Hybrid,IN,Big Enterprise
+1061,2022,Junior,Full-time,Data Engineer,120000,USD,120000,US,WFH,US,Medium
+1062,2022,Expert,Full-time,Lead Machine Learning Engineer,80000,EUR,84229,DE,WFO,DE,Medium
+1063,2021,Junior,Full-time,Machine Learning Engineer,20000,USD,20000,IN,WFH,IN,Startup
+1064,2022,Junior,Full-time,Computer Vision Engineer,125000,USD,125000,US,WFO,US,Medium
+1065,2021,Intermediate,Full-time,Data Scientist,700000,INR,9466,IN,WFO,IN,Startup
+1066,2021,Expert,Full-time,Machine Learning Scientist,120000,USD,120000,US,Hybrid,US,Startup
+1067,2021,Junior,Part-time,Data Analyst,8760,EUR,10354,ES,Hybrid,ES,Medium
+1068,2021,Junior,Full-time,Applied Data Scientist,80000,GBP,110037,GB,WFO,GB,Big Enterprise
+1069,2022,Junior,Full-time,ML Engineer,20000,EUR,21057,PT,WFH,PT,Big Enterprise
+1070,2021,Junior,Full-time,Data Analyst,50000,USD,50000,US,WFH,US,Medium
+1071,2021,Expert,Full-time,Principal Data Engineer,200000,USD,200000,US,WFH,US,Medium
+1072,2021,Intermediate,Full-time,Big Data Engineer,60000,USD,60000,ES,Hybrid,RO,Medium
+1073,2021,Intermediate,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Big Enterprise
+1074,2021,Junior,Full-time,Machine Learning Developer,100000,USD,100000,IQ,Hybrid,IQ,Startup
+1075,2021,Intermediate,Full-time,Data Engineer,100000,USD,100000,US,WFH,US,Big Enterprise
+1076,2021,Expert,Full-time,Machine Learning Engineer,70000,EUR,82744,BE,Hybrid,BE,Medium
+1077,2020,Intermediate,Full-time,Data Engineering Manager,51999,EUR,59303,DE,WFH,DE,Startup
+1078,2021,Intermediate,Full-time,Research Scientist,53000,EUR,62649,FR,Hybrid,FR,Medium
+1079,2021,Intermediate,Full-time,Data Engineer,60000,GBP,82528,GB,WFH,GB,Big Enterprise
+1080,2021,Intermediate,Full-time,Data Architect,170000,USD,170000,US,WFH,US,Big Enterprise
+1081,2021,Intermediate,Full-time,Data Architect,150000,USD,150000,US,WFH,US,Big Enterprise
+1082,2021,Junior,Full-time,BI Data Analyst,55000,USD,55000,US,Hybrid,US,Startup
+1083,2021,Director,Full-time,Director of Data Science,250000,USD,250000,US,WFO,US,Big Enterprise
+1084,2021,Junior,Full-time,Data Engineer,80000,USD,80000,US,WFH,US,Big Enterprise
+1085,2020,Junior,Full-time,Big Data Engineer,70000,USD,70000,US,WFH,US,Big Enterprise
+1086,2021,Director,Full-time,Director of Data Science,110000,EUR,130026,DE,Hybrid,DE,Medium
+1087,2021,Junior,Full-time,Data Science Consultant,54000,EUR,63831,DE,Hybrid,DE,Big Enterprise
+1088,2020,Expert,Full-time,Data Scientist,60000,EUR,68428,GR,WFH,US,Big Enterprise
+1089,2021,Director,Full-time,Head of Data Science,85000,USD,85000,RU,WFO,RU,Medium
+1090,2021,Director,Full-time,Head of Data,230000,USD,230000,RU,Hybrid,RU,Big Enterprise
+1091,2021,Junior,Full-time,Machine Learning Engineer,125000,USD,125000,US,WFH,US,Startup
+1092,2021,Expert,Full-time,Data Analytics Manager,120000,USD,120000,US,WFH,US,Medium
+1093,2020,Intermediate,Full-time,Research Scientist,450000,USD,450000,US,WFO,US,Medium
+1094,2020,Intermediate,Full-time,Data Analyst,41000,EUR,46759,FR,Hybrid,FR,Big Enterprise
+1095,2020,Intermediate,Full-time,Data Engineer,65000,EUR,74130,AT,Hybrid,AT,Big Enterprise
+1096,2021,Expert,Full-time,Data Science Engineer,159500,CAD,127221,CA,Hybrid,CA,Big Enterprise
+1097,2021,Expert,Full-time,Data Science Manager,144000,USD,144000,US,WFH,US,Big Enterprise
+1098,2021,Junior,Full-time,Data Scientist,13400,USD,13400,UA,WFH,UA,Big Enterprise
+1099,2021,Intermediate,Full-time,Data Scientist,95000,CAD,75774,CA,WFH,CA,Big Enterprise
+1100,2021,Intermediate,Full-time,Data Scientist,150000,USD,150000,US,WFH,US,Medium
+1101,2020,Intermediate,Full-time,Data Science Consultant,103000,USD,103000,US,WFH,US,Big Enterprise
+1102,2021,Expert,Full-time,Data Engineering Manager,153000,USD,153000,US,WFH,US,Big Enterprise
+1103,2021,Intermediate,Full-time,Data Engineer,90000,USD,90000,US,WFH,US,Big Enterprise
+1104,2021,Junior,Full-time,Data Analyst,90000,USD,90000,US,WFH,US,Startup
+1105,2021,Junior,Full-time,Data Analyst,60000,USD,60000,US,WFH,US,Startup
+1106,2021,Intermediate,Full-time,Data Scientist,50000,USD,50000,NG,WFH,NG,Big Enterprise
+1107,2021,Junior,Part-time,AI Scientist,12000,USD,12000,PK,WFH,US,Medium
+1108,2021,Intermediate,Part-time,3D Computer Vision Researcher,400000,INR,5409,IN,Hybrid,IN,Medium
+1109,2021,Intermediate,Contract,ML Engineer,270000,USD,270000,US,WFH,US,Big Enterprise
+1110,2021,Intermediate,Full-time,Applied Data Scientist,68000,CAD,54238,GB,Hybrid,CA,Big Enterprise
+1111,2021,Intermediate,Full-time,Machine Learning Engineer,40000,EUR,47282,ES,WFH,ES,Startup
+1112,2021,Director,Full-time,Director of Data Science,130000,EUR,153667,IT,WFH,PL,Big Enterprise
+1113,2021,Intermediate,Full-time,Data Engineer,110000,PLN,28476,PL,WFH,PL,Big Enterprise
+1114,2021,Intermediate,Full-time,Data Analytics Engineer,110000,USD,110000,US,WFH,US,Big Enterprise
+1115,2021,Junior,Full-time,Research Scientist,60000,GBP,82528,GB,Hybrid,GB,Big Enterprise
+1116,2020,Junior,Full-time,Machine Learning Engineer,250000,USD,250000,US,Hybrid,US,Big Enterprise
+1117,2021,Junior,Full-time,Data Analyst,50000,EUR,59102,FR,Hybrid,FR,Medium
+1118,2021,Expert,Full-time,Data Analyst,80000,USD,80000,BG,WFH,US,Startup
+1119,2020,Junior,Full-time,Data Analyst,10000,USD,10000,NG,WFH,NG,Startup
+1120,2020,Junior,Full-time,Machine Learning Engineer,138000,USD,138000,US,WFH,US,Startup
+1121,2021,Intermediate,Full-time,Data Engineer,140000,USD,140000,US,WFH,US,Big Enterprise
+1122,2021,Expert,Full-time,Data Analytics Engineer,67000,EUR,79197,DE,WFH,DE,Big Enterprise
+1123,2021,Expert,Full-time,Lead Data Analyst,170000,USD,170000,US,WFH,US,Big Enterprise
+1124,2021,Junior,Full-time,Data Analyst,80000,USD,80000,US,WFH,US,Medium
+1125,2020,Intermediate,Full-time,Data Scientist,45760,USD,45760,PH,WFH,US,Startup
+1126,2021,Intermediate,Full-time,BI Data Analyst,100000,USD,100000,US,WFH,US,Medium
+1127,2021,Expert,Full-time,Data Scientist,45000,EUR,53192,FR,Hybrid,FR,Big Enterprise
+1128,2021,Director,Full-time,Head of Data,235000,USD,235000,US,WFH,US,Big Enterprise
+1129,2021,Director,Full-time,BI Data Analyst,150000,USD,150000,IN,WFH,US,Big Enterprise
+1130,2020,Director,Full-time,Data Engineering Manager,70000,EUR,79833,ES,Hybrid,ES,Big Enterprise
+1131,2021,Junior,Full-time,Machine Learning Scientist,225000,USD,225000,US,WFH,US,Big Enterprise
+1132,2021,Junior,Full-time,Data Science Consultant,65000,EUR,76833,DE,WFH,DE,Startup
+1133,2020,Intermediate,Full-time,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT,WFO,PT,Medium
+1134,2021,Expert,Full-time,Marketing Data Analyst,75000,EUR,88654,GR,WFH,DK,Big Enterprise
+1135,2021,Expert,Full-time,Lead Data Engineer,75000,GBP,103160,GB,WFH,GB,Startup
+1136,2021,Expert,Full-time,Director of Data Engineering,82500,GBP,113476,GB,WFH,GB,Medium
+1137,2021,Expert,Full-time,Machine Learning Engineer,80000,EUR,94564,DE,Hybrid,DE,Big Enterprise
+1138,2021,Junior,Full-time,Data Engineer,2250000,INR,30428,IN,WFH,IN,Big Enterprise
+1139,2021,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Medium
+1140,2021,Expert,Full-time,Data Engineer,115000,USD,115000,US,WFH,US,Startup
+1141,2021,Intermediate,Full-time,Research Scientist,235000,CAD,187442,CA,WFH,CA,Big Enterprise
+1142,2021,Intermediate,Full-time,Data Analyst,37456,GBP,51519,GB,Hybrid,GB,Big Enterprise
+1143,2020,Intermediate,Full-time,Data Engineer,106000,USD,106000,US,WFH,US,Big Enterprise
+1144,2020,Intermediate,Full-time,Data Engineer,88000,GBP,112872,GB,Hybrid,GB,Big Enterprise
+1145,2021,Intermediate,Full-time,BI Data Analyst,11000000,HUF,36259,HU,Hybrid,US,Big Enterprise
+1146,2021,Expert,Full-time,Data Engineer,150000,USD,150000,US,WFH,US,Big Enterprise
+1147,2020,Junior,Part-time,ML Engineer,14000,EUR,15966,DE,WFH,DE,Startup
+1148,2021,Intermediate,Full-time,Computer Vision Software Engineer,81000,EUR,95746,DE,WFH,US,Startup
+1149,2021,Junior,Full-time,Computer Vision Software Engineer,70000,USD,70000,US,WFH,US,Medium
+1150,2021,Intermediate,Full-time,Financial Data Analyst,450000,USD,450000,US,WFH,US,Big Enterprise
+1151,2020,Intermediate,Full-time,Data Scientist,60000,GBP,76958,GB,WFH,GB,Startup
+1152,2021,Intermediate,Full-time,Cloud Data Engineer,120000,SGD,89294,SG,Hybrid,SG,Big Enterprise
+1153,2021,Junior,Full-time,Data Scientist,2200000,INR,29751,IN,Hybrid,IN,Big Enterprise
+1154,2021,Expert,Full-time,Lead Data Engineer,276000,USD,276000,US,WFO,US,Big Enterprise
+1155,2020,Expert,Full-time,Data Engineer,188000,USD,188000,US,WFH,US,Big Enterprise
+1156,2021,Expert,Full-time,Cloud Data Engineer,160000,USD,160000,BR,WFH,US,Startup
+1157,2020,Intermediate,Full-time,Data Scientist,105000,USD,105000,US,WFH,US,Big Enterprise
+1158,2021,Intermediate,Full-time,Data Engineer,200000,USD,200000,US,WFH,US,Big Enterprise
+1159,2021,Expert,Full-time,Data Engineering Manager,174000,USD,174000,US,WFH,US,Big Enterprise
+1160,2021,Intermediate,Full-time,Data Analyst,93000,USD,93000,US,WFH,US,Big Enterprise
+1161,2021,Junior,Full-time,Data Scientist,2100000,INR,28399,IN,WFH,IN,Medium
+1162,2021,Expert,Full-time,Research Scientist,51400,EUR,60757,PT,Hybrid,PT,Big Enterprise
+1163,2021,Junior,Full-time,Data Scientist,90000,USD,90000,US,WFH,US,Startup
+1164,2020,Intermediate,Full-time,Data Engineer,61500,EUR,70139,FR,Hybrid,FR,Big Enterprise
+1165,2020,Junior,Full-time,Data Analyst,450000,INR,6072,IN,WFO,IN,Startup
+1166,2020,Expert,Full-time,Data Engineer,720000,MXN,33511,MX,WFO,MX,Startup
+1167,2021,Expert,Full-time,Principal Data Analyst,170000,USD,170000,US,WFH,US,Medium
+1168,2021,Expert,Full-time,Data Engineer,70000,GBP,96282,GB,Hybrid,GB,Big Enterprise
+1169,2021,Intermediate,Full-time,Data Engineer,108000,TRY,12103,TR,WFO,TR,Medium
+1170,2021,Junior,Full-time,Data Scientist,31000,EUR,36643,FR,Hybrid,FR,Big Enterprise
+1171,2021,Intermediate,Full-time,Data Engineer,52500,GBP,72212,GB,Hybrid,GB,Big Enterprise
+1172,2020,Junior,Full-time,Data Analyst,91000,USD,91000,US,WFH,US,Big Enterprise
+1173,2021,Expert,Full-time,Big Data Architect,125000,CAD,99703,CA,Hybrid,CA,Medium
+1174,2021,Expert,Full-time,Data Scientist,165000,USD,165000,US,WFH,US,Big Enterprise
+1175,2021,Intermediate,Full-time,Data Analyst,80000,USD,80000,US,WFH,US,Big Enterprise
+1176,2021,Expert,Full-time,Data Scientist,130000,CAD,103691,CA,WFH,CA,Big Enterprise
+1177,2021,Junior,Full-time,Data Engineer,1600000,INR,21637,IN,Hybrid,IN,Medium
+1178,2020,Junior,Full-time,Research Scientist,42000,USD,42000,NL,Hybrid,NL,Big Enterprise
+1179,2020,Intermediate,Full-time,Lead Data Scientist,115000,USD,115000,AE,WFO,AE,Big Enterprise
+1180,2021,Intermediate,Full-time,Research Scientist,80000,CAD,63810,CA,WFH,CA,Medium
+1181,2020,Expert,Full-time,Machine Learning Scientist,260000,USD,260000,JP,WFO,JP,Startup
+1182,2021,Intermediate,Full-time,Head of Data Science,110000,USD,110000,US,WFO,US,Startup
+1183,2021,Intermediate,Full-time,Data Architect,180000,USD,180000,US,WFH,US,Big Enterprise
+1184,2021,Expert,Full-time,Data Analyst,200000,USD,200000,US,WFH,US,Big Enterprise
+1185,2020,Expert,Full-time,Big Data Engineer,85000,GBP,109024,GB,Hybrid,GB,Medium
+1186,2021,Expert,Full-time,Director of Data Engineering,200000,USD,200000,US,WFH,US,Big Enterprise
+1187,2021,Expert,Full-time,ML Engineer,256000,USD,256000,US,WFH,US,Startup
+1188,2021,Intermediate,Full-time,Data Engineer,110000,USD,110000,US,WFH,US,Big Enterprise
+1189,2020,Intermediate,Full-time,Data Scientist,70000,EUR,79833,DE,WFO,DE,Big Enterprise
+1190,2021,Junior,Full-time,Data Engineer,72500,USD,72500,US,WFH,US,Big Enterprise
+1191,2021,Expert,Full-time,Machine Learning Engineer,185000,USD,185000,US,Hybrid,US,Big Enterprise
+1192,2021,Intermediate,Part-time,Data Engineer,59000,EUR,69741,NL,WFH,NL,Big Enterprise
+1193,2021,Junior,Full-time,Research Scientist,100000,USD,100000,JE,WFO,CN,Big Enterprise
+1194,2021,Intermediate,Full-time,Data Engineer,112000,USD,112000,US,WFH,US,Big Enterprise
+1195,2020,Expert,Full-time,Machine Learning Engineer,150000,USD,150000,US,Hybrid,US,Big Enterprise
+1196,2021,Expert,Full-time,Data Scientist,180000,TRY,20171,TR,Hybrid,TR,Big Enterprise
+1197,2021,Expert,Full-time,AI Scientist,55000,USD,55000,ES,WFH,ES,Big Enterprise
+1198,2021,Junior,Full-time,Data Scientist,58000,USD,58000,US,Hybrid,US,Big Enterprise
+1199,2021,Junior,Full-time,Data Scientist,100000,USD,100000,US,WFH,US,Medium
+1200,2021,Expert,Full-time,Data Scientist,65720,EUR,77684,FR,Hybrid,FR,Medium
+1201,2021,Junior,Full-time,Machine Learning Engineer,85000,USD,85000,NL,WFH,DE,Startup
+1202,2021,Junior,Full-time,Data Science Consultant,65000,EUR,76833,DE,WFO,DE,Big Enterprise
+1203,2021,Expert,Contract,Staff Data Scientist,105000,USD,105000,US,WFH,US,Medium
+1204,2020,Junior,Full-time,Data Analyst,72000,USD,72000,US,WFH,US,Big Enterprise
+1205,2021,Junior,Full-time,Data Engineer,55000,EUR,65013,DE,Hybrid,DE,Medium
+1206,2021,Intermediate,Full-time,Data Engineer,250000,TRY,28016,TR,WFH,TR,Medium
+1207,2021,Intermediate,Full-time,Data Engineer,111775,USD,111775,US,WFO,US,Medium
+1208,2021,Intermediate,Full-time,Data Engineer,93150,USD,93150,US,WFO,US,Medium
+1209,2021,Expert,Full-time,Lead Data Engineer,160000,USD,160000,PR,Hybrid,US,Startup
+1210,2021,Intermediate,Full-time,Data Scientist,21600,EUR,25532,RS,WFH,DE,Startup
+1211,2021,Expert,Full-time,Machine Learning Engineer,4900000,INR,66265,IN,WFO,IN,Big Enterprise
+1212,2021,Intermediate,Full-time,Data Scientist,1250000,INR,16904,IN,WFH,IN,Startup
+1213,2021,Expert,Full-time,Data Analyst,54000,EUR,63831,DE,Hybrid,DE,Big Enterprise
+1214,2020,Expert,Full-time,Lead Data Scientist,190000,USD,190000,US,WFH,US,Startup
+1215,2021,Director,Full-time,Director of Data Science,120000,EUR,141846,DE,WFO,DE,Big Enterprise
+1216,2021,Junior,Full-time,Big Data Engineer,1200000,INR,16228,IN,WFH,IN,Big Enterprise
+1217,2021,Expert,Full-time,Data Analyst,90000,CAD,71786,CA,WFH,CA,Medium
+1218,2020,Intermediate,Full-time,Data Scientist,11000000,HUF,35735,HU,Hybrid,HU,Big Enterprise
+1219,2021,Expert,Full-time,Data Scientist,135000,USD,135000,US,WFO,US,Big Enterprise
+1220,2021,Junior,Full-time,Machine Learning Engineer,21000,EUR,24823,DE,Hybrid,DE,Medium
+1221,2021,Expert,Full-time,Data Science Manager,4000000,INR,54094,IN,Hybrid,US,Big Enterprise
+1222,2021,Expert,Full-time,Machine Learning Engineer,1799997,INR,24342,IN,WFH,IN,Big Enterprise
+1223,2021,Junior,Full-time,BI Data Analyst,9272,USD,9272,KE,WFH,KE,Startup
+1224,2021,Intermediate,Full-time,Data Scientist,147000,USD,147000,US,Hybrid,US,Big Enterprise
+1225,2021,Expert,Full-time,Research Scientist,120500,CAD,96113,CA,Hybrid,CA,Big Enterprise
+1226,2021,Expert,Full-time,Data Science Manager,174000,USD,174000,US,WFH,US,Big Enterprise
+1227,2020,Intermediate,Full-time,Business Data Analyst,135000,USD,135000,US,WFH,US,Big Enterprise
+1228,2021,Junior,Full-time,Machine Learning Engineer,21844,USD,21844,CO,Hybrid,CO,Medium
+1229,2020,Expert,Full-time,Lead Data Engineer,125000,USD,125000,NZ,Hybrid,NZ,Startup
+1230,2020,Junior,Full-time,Data Scientist,45000,EUR,51321,FR,WFO,FR,Startup
+1231,2020,Intermediate,Full-time,Data Scientist,3000000,INR,40481,IN,WFO,IN,Big Enterprise
+1232,2021,Director,Full-time,Data Science Consultant,59000,EUR,69741,FR,WFH,ES,Startup
+1233,2021,Expert,Full-time,Data Analytics Engineer,50000,USD,50000,VN,WFH,GB,Medium
+1234,2021,Intermediate,Full-time,Data Engineer,4000,USD,4000,IR,WFH,IR,Medium
+1235,2020,Junior,Full-time,Data Scientist,35000,EUR,39916,FR,WFO,FR,Medium
+1236,2020,Intermediate,Full-time,Lead Data Analyst,87000,USD,87000,US,WFH,US,Big Enterprise
+1237,2021,Intermediate,Full-time,Data Engineer,22000,EUR,26005,RO,WFO,US,Big Enterprise
+1238,2021,Intermediate,Full-time,Data Scientist,76760,EUR,90734,DE,Hybrid,DE,Big Enterprise
+1239,2021,Intermediate,Full-time,Big Data Engineer,1672000,INR,22611,IN,WFO,IN,Big Enterprise
+1240,2021,Intermediate,Full-time,Data Scientist,420000,INR,5679,IN,WFH,US,Startup
+1241,2021,Junior,Full-time,Machine Learning Engineer,81000,USD,81000,US,Hybrid,US,Startup
+1242,2021,Intermediate,Full-time,Data Scientist,30400000,CLP,40038,CL,WFH,CL,Big Enterprise
+1243,2021,Intermediate,Full-time,Data Scientist,58000,MXN,2859,MX,WFO,MX,Startup
+1244,2021,Junior,Full-time,Data Science Consultant,90000,USD,90000,US,WFH,US,Startup
+1245,2021,Intermediate,Full-time,Data Scientist,52000,EUR,61467,DE,Hybrid,AT,Medium
+1246,2021,Expert,Full-time,Machine Learning Infrastructure Engineer,195000,USD,195000,US,WFH,US,Medium
+1247,2021,Intermediate,Full-time,Data Scientist,32000,EUR,37825,ES,WFH,ES,Big Enterprise
+1248,2020,Intermediate,Full-time,Data Analyst,85000,USD,85000,US,WFH,US,Big Enterprise
+1249,2021,Director,Contract,Principal Data Scientist,416000,USD,416000,US,WFH,US,Startup
+1250,2021,Expert,Full-time,Machine Learning Scientist,225000,USD,225000,US,WFH,CA,Big Enterprise
+1251,2021,Intermediate,Full-time,Data Scientist,40900,GBP,56256,GB,Hybrid,GB,Big Enterprise
+1252,2021,Intermediate,Full-time,Data Scientist,2500000,INR,33808,IN,WFO,IN,Medium
+1253,2021,Intermediate,Full-time,Data Scientist,85000,GBP,116914,GB,Hybrid,GB,Big Enterprise
+1254,2021,Intermediate,Full-time,Machine Learning Engineer,180000,PLN,46597,PL,WFH,PL,Big Enterprise
+1255,2020,Intermediate,Full-time,Data Analyst,8000,USD,8000,PK,Hybrid,PK,Big Enterprise
+1256,2020,Junior,Full-time,Data Engineer,4450000,JPY,41689,JP,WFH,JP,Startup
+1257,2020,Expert,Full-time,Big Data Engineer,100000,EUR,114047,PL,WFH,GB,Startup
+1258,2021,Intermediate,Full-time,Machine Learning Engineer,75000,EUR,88654,BE,WFH,BE,Medium
+1259,2020,Junior,Full-time,Data Science Consultant,423000,INR,5707,IN,Hybrid,IN,Medium
+1260,2020,Intermediate,Full-time,Lead Data Engineer,56000,USD,56000,PT,WFH,US,Medium
+1261,2021,Junior,Part-time,Computer Vision Engineer,180000,DKK,28609,DK,Hybrid,DK,Startup
+1262,2021,Intermediate,Full-time,Data Scientist,75000,EUR,88654,DE,Hybrid,DE,Big Enterprise
+1263,2020,Intermediate,Full-time,Machine Learning Engineer,299000,CNY,43331,CN,WFO,CN,Medium
+1264,2020,Intermediate,Full-time,Product Data Analyst,450000,INR,6072,IN,WFH,IN,Big Enterprise
+1265,2020,Expert,Full-time,Data Engineer,42000,EUR,47899,GR,Hybrid,GR,Big Enterprise
+1266,2020,Intermediate,Full-time,BI Data Analyst,98000,USD,98000,US,WFO,US,Medium
+1267,2021,Intermediate,Full-time,Data Engineer,48000,GBP,66022,HK,Hybrid,GB,Startup
+1268,2021,Intermediate,Full-time,Research Scientist,48000,EUR,56738,FR,Hybrid,FR,Startup
+1269,2021,Intermediate,Full-time,Machine Learning Engineer,21000,EUR,24823,SI,Hybrid,SI,Big Enterprise
+1270,2021,Expert,Full-time,Data Analytics Manager,120000,USD,120000,US,WFO,US,Big Enterprise
+1271,2021,Intermediate,Freelance,Data Engineer,20000,USD,20000,IT,WFO,US,Big Enterprise
+1272,2020,Director,Full-time,Director of Data Science,325000,USD,325000,US,WFH,US,Big Enterprise
+1273,2021,Expert,Full-time,Machine Learning Engineer,200000,USD,200000,US,WFH,US,Big Enterprise
+1274,2020,Junior,Full-time,AI Scientist,300000,DKK,45896,DK,Hybrid,DK,Startup
+1275,2021,Intermediate,Full-time,Data Scientist,160000,USD,160000,US,WFH,US,Big Enterprise
+1276,2021,Expert,Full-time,Research Scientist,50000,USD,50000,FR,WFH,US,Startup
+1277,2021,Intermediate,Full-time,Data Science Engineer,34000,EUR,40189,GR,WFH,GR,Medium
+1278,2021,Director,Full-time,Principal Data Engineer,600000,USD,600000,US,WFH,US,Big Enterprise
+1279,2021,Intermediate,Full-time,Data Scientist,69600,BRL,12901,BR,WFO,BR,Startup
+1280,2021,Expert,Full-time,Data Engineer,165000,USD,165000,US,WFO,US,Medium
+1281,2021,Junior,Full-time,Big Data Engineer,435000,INR,5882,IN,WFO,CH,Big Enterprise
+1282,2020,Intermediate,Full-time,Data Scientist,37000,EUR,42197,FR,Hybrid,FR,Startup
+1283,2021,Expert,Full-time,Principal Data Engineer,185000,USD,185000,US,WFH,US,Big Enterprise
+1284,2020,Junior,Full-time,Data Scientist,55000,EUR,62726,DE,Hybrid,DE,Startup
+1285,2021,Intermediate,Full-time,Data Scientist,76760,EUR,90734,DE,Hybrid,DE,Big Enterprise
+1286,2020,Junior,Part-time,Data Scientist,19000,EUR,21669,IT,Hybrid,IT,Startup
+1287,2020,Intermediate,Full-time,Data Engineer,110000,USD,110000,US,WFH,US,Big Enterprise
+1288,2021,Expert,Full-time,Data Analytics Manager,140000,USD,140000,US,WFH,US,Big Enterprise
+1289,2020,Expert,Full-time,Data Scientist,120000,USD,120000,US,Hybrid,US,Big Enterprise
+1290,2021,Expert,Full-time,Data Scientist,110000,CAD,87738,CA,WFH,CA,Startup
+1291,2021,Expert,Full-time,Finance Data Analyst,45000,GBP,61896,GB,Hybrid,GB,Big Enterprise
+1292,2021,Intermediate,Freelance,Machine Learning Scientist,12000,USD,12000,PK,Hybrid,PK,Medium
+1293,2021,Expert,Full-time,Data Engineer,65000,EUR,76833,RO,Hybrid,GB,Startup
+1294,2021,Intermediate,Full-time,Machine Learning Engineer,74000,USD,74000,JP,Hybrid,JP,Startup
+1295,2021,Expert,Full-time,Data Science Manager,152000,USD,152000,US,WFH,FR,Big Enterprise
+1296,2021,Intermediate,Full-time,Big Data Engineer,18000,USD,18000,MD,WFO,MD,Startup
+1297,2020,Expert,Freelance,Computer Vision Engineer,60000,USD,60000,RU,WFH,US,Startup
+1298,2021,Intermediate,Full-time,Data Scientist,130000,USD,130000,US,Hybrid,US,Big Enterprise
+1299,2021,Expert,Full-time,Computer Vision Engineer,102000,BRL,18907,BR,WFO,BR,Medium
+1300,2021,Junior,Full-time,Business Data Analyst,50000,EUR,59102,LU,WFH,LU,Big Enterprise
+1301,2021,Expert,Full-time,Principal Data Scientist,147000,EUR,173762,DE,WFH,DE,Medium
+1302,2020,Expert,Full-time,Principal Data Scientist,130000,EUR,148261,DE,WFH,DE,Medium
+1303,2020,Intermediate,Full-time,Data Scientist,34000,EUR,38776,ES,WFH,ES,Medium
+1304,2021,Intermediate,Full-time,Data Scientist,39600,EUR,46809,ES,WFH,ES,Medium
+1305,2021,Junior,Full-time,Data Scientist,4000,USD,4000,VN,WFO,VN,Medium
+1306,2021,Junior,Full-time,AI Scientist,1335000,INR,18053,IN,WFH,AS,Startup
+1307,2020,Expert,Full-time,Data Scientist,80000,EUR,91237,AT,WFO,AT,Startup
+1308,2020,Intermediate,Full-time,Data Scientist,55000,EUR,62726,FR,Hybrid,LU,Startup
+1309,2021,Intermediate,Full-time,Data Scientist,115000,USD,115000,US,Hybrid,US,Big Enterprise
+1310,2021,Expert,Full-time,Principal Data Scientist,235000,USD,235000,US,WFH,US,Big Enterprise
+1311,2021,Intermediate,Full-time,Lead Data Analyst,1450000,INR,19609,IN,WFH,IN,Big Enterprise
+1312,2021,Junior,Part-time,AI Scientist,12000,USD,12000,BR,WFH,US,Startup
+1313,2021,Intermediate,Full-time,Data Analyst,75000,USD,75000,US,WFO,US,Big Enterprise
+1314,2021,Intermediate,Full-time,Data Analyst,62000,USD,62000,US,WFO,US,Big Enterprise
+1315,2021,Intermediate,Full-time,Data Scientist,73000,USD,73000,US,WFO,US,Big Enterprise
+1316,2021,Intermediate,Full-time,Data Engineer,38400,EUR,45391,NL,WFH,NL,Big Enterprise
+1317,2020,Expert,Full-time,Data Science Manager,190200,USD,190200,US,WFH,US,Medium
+1318,2020,Intermediate,Full-time,Data Scientist,118000,USD,118000,US,WFH,US,Medium
+1319,2020,Intermediate,Full-time,Data Scientist,138350,USD,138350,US,WFH,US,Medium
+1320,2020,Intermediate,Full-time,Data Engineer,130800,USD,130800,ES,WFH,US,Medium
+1321,2020,Expert,Full-time,Machine Learning Engineer,40000,EUR,45618,HR,WFH,HR,Startup
+1322,2021,Expert,Full-time,Director of Data Science,168000,USD,168000,JP,WFO,JP,Startup
+1323,2021,Intermediate,Full-time,Data Scientist,160000,SGD,119059,SG,WFH,IL,Medium
+1324,2021,Intermediate,Full-time,Applied Machine Learning Scientist,423000,USD,423000,US,Hybrid,US,Big Enterprise
+1325,2021,Intermediate,Full-time,Data Engineer,24000,EUR,28369,MT,Hybrid,MT,Big Enterprise
+1326,2021,Expert,Full-time,Data Specialist,165000,USD,165000,US,WFH,US,Big Enterprise
+1327,2020,Expert,Full-time,Data Scientist,412000,USD,412000,US,WFH,US,Big Enterprise
+1328,2021,Intermediate,Full-time,Principal Data Scientist,151000,USD,151000,US,WFH,US,Big Enterprise
+1329,2020,Junior,Full-time,Data Scientist,105000,USD,105000,US,WFH,US,Startup
+1330,2020,Junior,Contract,Business Data Analyst,100000,USD,100000,US,WFH,US,Big Enterprise
+1331,2021,Expert,Full-time,Data Science Manager,7000000,INR,94665,IN,Hybrid,IN,Big Enterprise
